@@ -251,20 +251,28 @@ http://persik.by/stream/7504/377885/10691.m3u8
 http://persik.by/stream/7504/377885/11048.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11145.png",Лучшие сериалы HD
 http://persik.by/stream/7504/377885/11145.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Science
 http://109.200.130.124:7007/play/a00b
 #EXTINF:-1 group-title="Познавательные",Discovery Science
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1 group-title="Познавательные",DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
+#EXTINF:-1 group-title="Познавательные",TLC
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://91.210.251.19:4866/udp/239.0.1.24:4000
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://persik.by/stream/7504/377885/10210.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
+https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://persik.by/stream/7504/377885/10243.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://91.210.251.19:4866/udp/239.0.1.59:4000
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Da Vinci
 http://91.210.251.19:4866/udp/239.0.1.107:4000
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
@@ -281,6 +289,8 @@ https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 https://sc.id-tv.kz/H2HD_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
 http://persik.by/stream/7504/377885/311.m3u8
+#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка ТВ
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",World HD
@@ -297,6 +307,16 @@ http://myott.top/stream/1VGPHYLZTH/80.m3u8
 http://192.166.144.111:8008/play/a003/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Продвижение
 http://192.166.144.111:8008/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Еда Премиум
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоопарк
+http://46.174.83.66/Zoopark/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Техно 24
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ОНТ
@@ -319,6 +339,7 @@ http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Детские",Канал Disney
 http://91.210.251.19:4866/udp/239.0.1.39:4000
 #EXTINF:-1 group-title="Детские",Детский мир
@@ -341,8 +362,12 @@ http://91.210.251.19:4866/udp/239.0.1.49:4000
 http://46.174.83.66/Karusel/mpegts
 #EXTINF:-1 group-title="Детские",Карусель
 http://radio-live-mg.rtr-vesti.ru/hls/karusel/playlist_3.m3u8
-#EXTINF:-1 group-title="Детские",O!
-https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 group-title="Детские",О!
+http://46.174.83.66/O/index.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+https://sc.id-tv.kz:443/Mult_34_35.m3u8
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=mult
 #EXTINF:-1 group-title="Детские",Мульт и музыка
 http://myott.top/stream/1VGPHYLZTH/82.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/946.png",Nick Jr
@@ -503,20 +528,43 @@ http://135.181.178.91/vmedia_live/1/tracks-v1a2/index.m3u8
 http://135.181.178.91/vmedia_live/1/tracks-v1a3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://91.210.251.19:4866/udp/239.0.1.95:4000
+#EXTINF:-1 group-title="Развлекательные",Пятница! HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=friday
+#EXTINF:-1 group-title="Развлекательные",Суббота
+http://46.174.83.66/Subbota/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Суббота HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=subbota
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://46.174.83.66/TNT/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnt
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://91.210.251.19:4866/udp/239.0.1.16:4000
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd
+#EXTINF:-1 group-title="Развлекательные",ТНТ International
+https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://46.174.83.66/TNT4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",THT4
 http://91.210.251.19:4866/udp/239.0.1.62:4000
-#EXTINF:-1 group-title="Развлекательные",ТНТ4 Int
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnt4
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 International
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+#EXTINF:-1 group-title="Развлекательные",2x2
+http://46.174.83.66/2x2/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",2x2 HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=2x2
+#EXTINF:-1 group-title="Развлекательные",Телекафе
+https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://91.210.251.19:4866/udp/239.0.1.111:4000
 #EXTINF:-1 group-title="Развлекательные",СТС International
 https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://91.210.251.19:4866/udp/239.0.1.33:4000
+
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыка",Kronehit FHD
