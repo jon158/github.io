@@ -97,6 +97,10 @@ http://91.210.251.19:4866/udp/239.0.1.31:4000
 http://91.210.251.19:4866/udp/239.0.1.30:4000
 #EXTINF:-1 group-title="Кино",Родное кино
 http://persik.by/stream/7504/377885/312.m3u8
+#EXTINF:-1 group-title="Кино",Родное кино
+http://217.151.232.107:81/udp/239.255.0.101:1234
+#EXTINF:-1 group-title="Кино",Наше любимое кино
+http://217.151.232.107:81/udp/239.255.0.119:1234
 #EXTINF:-1 group-title="Кино",FOX HD
 https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD
@@ -111,6 +115,8 @@ http://91.210.251.19:4866/udp/239.0.1.69:4000
 http://109.200.130.124:15500/paramountchannel
 #EXTINF:-1 group-title="Кино",Paramount Comedy
 http://109.200.130.124:15500/paramountcomedy
+#EXTINF:-1 group-title="Кино",Paramount Comedy
+http://217.151.232.107:81/udp/239.255.0.97:1234
 #EXTINF:-1 group-title="Кино",Sony Channel
 http://myott.top/stream/1VGPHYLZTH/69.m3u8
 #EXTINF:-1 group-title="Кино",.black
@@ -121,6 +127,12 @@ http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
 #EXTINF:-1 group-title="Кино",.sci-fi
 http://91.210.251.19:4866/udp/239.0.1.26:4000
+#EXTINF:-1 group-title="Кино",Русский Экстрим
+http://217.151.232.107:81/udp/239.255.0.120:1234
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://217.151.232.107:81/udp/239.255.0.79:1234
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://217.151.232.107:81/udp/239.255.0.124:1234
 #EXTINF:-1 group-title="Кино",CINEMA 
 https://sc.id-tv.kz:443/Cinema_36_37.m3u8
 #EXTINF:-1 group-title="Кино",CINEMA
@@ -149,6 +161,8 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://109.200.130.124:15500/nst
+#EXTINF:-1 group-title="Кино",НСТ
+http://217.151.232.107:81/udp/239.255.0.121:1234
 #EXTINF:-1 group-title="Кино",Shot TV
 http://91.210.251.19:4866/udp/239.0.1.118:4000
 #EXTINF:-1 group-title="Кино",Иллюзион+
@@ -178,13 +192,25 @@ http://80.237.96.66:9090/stream/channelid/1223388163?ticket=03E0F244343C45AB8FFD
 #EXTINF:-1 group-title="Кино",День Победы
 http://5921747b.ottolok.net/iptv/8K6QLPHQA9XWMN/5054/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский иллюзион
+http://217.151.232.107:81/udp/239.255.0.78:1234
+#EXTINF:-1 group-title="Кино",Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Русский детектив
+http://217.151.232.107:81/udp/239.255.0.128:1234
+#EXTINF:-1 group-title="Кино",Русский бестселлер
+http://217.151.232.107:81/udp/239.255.0.127:1234
+#EXTINF:-1 group-title="Кино",XXI
+http://217.151.232.107:81/udp/239.255.0.99:1234
+#EXTINF:-1 group-title="Кино",Красная Линия
+http://217.151.232.107:81/udp/239.255.0.171:1234
 #EXTINF:-1 group-title="Кино",Русский роман
 http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://109.171.45.109:81/udp/239.54.5.87:1224
+#EXTINF:-1 group-title="Кино",Русский Роман
+http://217.151.232.107:81/udp/239.255.0.83:1234
 #EXTINF:-1 group-title="Кино",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кинолюкс
@@ -287,10 +313,16 @@ https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
 https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные",History 2 HD
 https://sc.id-tv.kz/H2HD_36_37.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто 24
+http://217.151.232.107:81/udp/239.255.0.118:1234
+#EXTINF:-1 group-title="Познавательные",Драйв
+http://217.151.232.107:81/udp/239.255.0.44:1234
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
 http://persik.by/stream/7504/377885/311.m3u8
 #EXTINF:-1 group-title="Познавательные",Охота и рыбалка
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 group-title="Познавательные",Охота и Рыбалка
+http://217.151.232.107:81/udp/239.255.0.45:1234
 #EXTINF:-1 group-title="Познавательные",Точка ТВ
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",World HD
@@ -299,20 +331,40 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ТВ Экстра
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Nano
+#EXTINF:-1 group-title="Познавательные",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Познавательные",Nano TV
+http://217.151.232.107:81/udp/239.255.0.73:1234
 #EXTINF:-1 group-title="Познавательные",Доктор
 http://myott.top/stream/1VGPHYLZTH/80.m3u8
 #EXTINF:-1 group-title="Познавательные",Нано HD
 http://192.166.144.111:8008/play/a003/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Продвижение
 http://192.166.144.111:8008/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Бобер
+http://217.151.232.107:81/udp/239.255.0.156:1234
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://217.151.232.107:81/udp/239.255.0.175:1234
+#EXTINF:-1 group-title="Познавательные",Мама
+http://217.151.232.107:81/udp/239.255.0.176:1234
+#EXTINF:-1 group-title="Познавательные",Усадьба ТВ
+http://217.151.232.107:81/udp/239.255.0.47:1234
+#EXTINF:-1 group-title="Познавательные",RTG TV
+http://217.151.232.107:81/udp/239.255.0.72:1234
+#EXTINF:-1 group-title="Познавательные",История
+http://217.151.232.107:81/udp/239.255.0.82:1234
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+http://217.151.232.107:81/udp/239.255.0.59:1234
+#EXTINF:-1 group-title="Познавательные",Просвещение
+http://217.151.232.107:81/udp/239.255.0.61:1234
 #EXTINF:-1 group-title="Познавательные",Еда Премиум
 https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ HD
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Зоопарк
 http://46.174.83.66/Zoopark/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоопарк
+http://217.151.232.107:81/udp/239.255.0.77:1234
 #EXTINF:-1 group-title="Познавательные",Поехали!
 https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Техно 24
@@ -327,6 +379,8 @@ http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 http://83.222.205.10:38080/konnyimir/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Министерство идей
+http://217.151.232.107:81/udp/239.255.0.81:1234
 #EXTINF:-1 group-title="Познавательные",Универ TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ЛитКлуб ТВ Проза
@@ -370,6 +424,8 @@ https://sc.id-tv.kz:443/Mult_34_35.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=mult
 #EXTINF:-1 group-title="Детские",Мульт и музыка
 http://myott.top/stream/1VGPHYLZTH/82.m3u8
+#EXTINF:-1 group-title="Детские",Мульт и музыка
+http://217.151.232.107:81/udp/239.255.0.64:1234
 #EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/946.png",Nick Jr
 http://persik.by/stream/7504/377885/946.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/946.png",Nick Jr.
@@ -448,6 +504,8 @@ http://91.210.251.19:4866/udp/239.0.1.144:4000
 http://91.210.251.19:4866/udp/239.0.1.145:4000
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://91.210.251.19:4866/udp/239.0.1.56:4000
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://217.151.232.107:81/udp/239.255.0.103:1234
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://91.210.251.19:4866/udp/239.0.1.123:4000
 #EXTINF:-1 group-title="Спорт",Матч! Игра
@@ -562,6 +620,8 @@ https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
 http://91.210.251.19:4866/udp/239.0.1.111:4000
 #EXTINF:-1 group-title="Развлекательные",СТС International
 https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title="Развлекательные",Game Show
+http://217.151.232.107:81/udp/239.255.0.179:1234
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://91.210.251.19:4866/udp/239.0.1.33:4000
 
