@@ -1,18 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1 HD
-http://persik.by/stream/7504/377885/10380.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1
 http://109.200.130.124:15500/A1
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2
 http://109.200.130.124:15500/A2
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2
-http://persik.by/stream/7504/377885/727.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit
 http://91.210.251.19:4866/udp/239.0.1.139:4000
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit
-http://persik.by/stream/7504/377885/895.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Premium HD
-http://persik.by/stream/7504/377885/643.m3u8
 #EXTINF:-1 group-title="Кино",VIP Premiere
 http://91.210.251.17:4866/udp/239.0.20.27:4000
 #EXTINF:-1 group-title="Кино",VIP Megahit
@@ -22,61 +14,35 @@ http://91.210.251.17:4866/udp/239.0.20.25:4000
 #EXTINF:-1 group-title="Кино",VIP Serial
 http://94.229.250.73:8008/play/a003
 #EXTINF:-1 group-title="Кино",TV1000
-http://persik.by/stream/7504/377885/10237.m3u8
-#EXTINF:-1 group-title="Кино",TV1000
 http://tv.streams.baikal-telecom.net/TV1000/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
 http://91.210.251.19:4866/udp/239.0.1.44:4000
 #EXTINF:-1 group-title="Кино",TV1000 Action
 http://91.210.251.19:4866/udp/239.0.1.52:4000
 #EXTINF:-1 group-title="Кино",TV1000 Action
-http://persik.by/stream/7504/377885/10238.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 Action
 http://212.115.255.196/Jfd85Hf/tv1000action.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://91.210.251.19:4866/udp/239.0.1.60:4000
-#EXTINF:-1 group-title="Кино",TV1000 Русское кино
-http://persik.by/stream/7504/377885/10236.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское Кино
 http://109.200.130.124:15500/tv1000ruskino
-#EXTINF:-1 group-title="Кино",Кинопремьера HD
-http://persik.by/stream/7504/377885/10240.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия
-http://persik.by/stream/7504/377885/292.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://91.210.251.19:4866/udp/239.0.1.103:4000
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://46.174.83.66/Kinokomedia/index.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс
-http://persik.by/stream/7504/377885/608.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание
-http://persik.by/stream/7504/377885/30.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://91.210.251.19:4866/udp/239.0.1.86:4000
 #EXTINF:-1 group-title="Кино",Киносемья
 http://91.210.251.19:4866/udp/239.0.1.88:4000
-#EXTINF:-1 group-title="Кино",Киносемья
-http://persik.by/stream/7504/377885/590.m3u8
-#EXTINF:-1 group-title="Кино",Киносерия
-http://persik.by/stream/7504/377885/278.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-http://persik.by/stream/7504/377885/213.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://91.210.251.19:4866/udp/239.0.1.87:4000
 #EXTINF:-1 group-title="Кино",Киномикс
 http://91.210.251.19:4866/udp/239.0.1.114:4000
 #EXTINF:-1 group-title="Кино",Мужское кино
 http://91.210.251.19:4866/udp/239.0.1.83:4000
-#EXTINF:-1 group-title="Кино",Мужское кино HD
-http://persik.by/stream/7504/377885/10368.m3u8
-#EXTINF:-1 group-title="Кино",Наше новое кино
-http://persik.by/stream/7504/377885/260.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
 http://91.210.251.19:4866/udp/239.0.1.31:4000
 #EXTINF:-1 group-title="Кино",Родное кино
 http://91.210.251.19:4866/udp/239.0.1.30:4000
-#EXTINF:-1 group-title="Кино",Родное кино
-http://persik.by/stream/7504/377885/312.m3u8
 #EXTINF:-1 group-title="Кино",FOX
 http://109.200.130.124:15500/fox
 #EXTINF:-1 group-title="Кино",FOX
@@ -129,14 +95,10 @@ http://109.200.130.124:7007/play/a01a
 http://80.237.96.66:9090/stream/channelid/355332936?ticket=04F16AB001A9117153B2962DD656A6E6B712181E&profile=pass
 #EXTINF:-1 group-title="Кино",НТВ Сериал
 http://80.237.96.66:9090/stream/channelid/1223388163?ticket=03E0F244343C45AB8FFD7C85277A3C6258C15AD7&profile=pass
-#EXTINF:-1 group-title="Кино",День Победы
-http://5921747b.ottolok.net/iptv/8K6QLPHQA9XWMN/5054/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Millenium TV HD
-http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кинолюкс
 http://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1 group-title="Кино",Фантастика Sci-Fi
@@ -147,84 +109,26 @@ http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1 KG Cinemastan
 http://st.kglive.asia/hls/tv1cinema.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11022.png",Криминальные драмы
-http://persik.by/stream/7504/377885/11022.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11027.png",Новинки HD
-http://persik.by/stream/7504/377885/11027.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11146.png",Новинки кино HD
-http://persik.by/stream/7504/377885/11146.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11018.png",Топ кино HD
-http://persik.by/stream/7504/377885/11018.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10713.png",Триллеры HD
-http://persik.by/stream/7504/377885/10713.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10714.png",Ужасы HD
-http://persik.by/stream/7504/377885/10714.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10715.png",Фантастика HD
-http://persik.by/stream/7504/377885/10715.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11169.png",Фильмы Боевики HD
-http://persik.by/stream/7504/377885/11169.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10685.png",Боевик HD
-http://persik.by/stream/7504/377885/10685.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11138.png",Мировое кино HD
-http://persik.by/stream/7504/377885/11138.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10696.png",Криминал HD RU
-http://persik.by/stream/7504/377885/10696.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11010.png",Новые российские фильмы
-http://persik.by/stream/7504/377885/11010.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11147.png",Отечественное кино
-http://persik.by/stream/7504/377885/11147.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11063.png",Золотая коллекция СССР
-http://persik.by/stream/7504/377885/11063.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11073.png",Высоцкий
-http://persik.by/stream/7504/377885/11073.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10750.png",Советские комедии HD
-http://persik.by/stream/7504/377885/10750.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11031.png",Советские сериалы
-http://persik.by/stream/7504/377885/11031.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10711.png",Советское HD
-http://persik.by/stream/7504/377885/10711.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11039.png",Фильмы о войне
-http://persik.by/stream/7504/377885/11039.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11133.png",Фильмы про отдых
-http://persik.by/stream/7504/377885/11133.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11059.png",Фильмы про спорт HD
-http://persik.by/stream/7504/377885/11059.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11013.png",Фильмы ужасов HD
-http://persik.by/stream/7504/377885/11013.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11168.png",Комедийные фильмы HD
-http://persik.by/stream/7504/377885/11168.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10691.png",Комедия HD
-http://persik.by/stream/7504/377885/10691.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11048.png",Лучшие драмы HD
-http://persik.by/stream/7504/377885/11048.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/11145.png",Лучшие сериалы HD
-http://persik.by/stream/7504/377885/11145.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Science
-http://109.200.130.124:7007/play/a00b
 #EXTINF:-1 group-title="Познавательные",Discovery Science
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://109.200.130.124:7007/play/a00b
 #EXTINF:-1 group-title="Познавательные",DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://91.210.251.19:4866/udp/239.0.1.24:4000
-#EXTINF:-1 group-title="Познавательные",National Geographic
-http://persik.by/stream/7504/377885/10210.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic HD
-http://persik.by/stream/7504/377885/10243.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://91.210.251.19:4866/udp/239.0.1.59:4000
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+http://91.210.251.19:4866/udp/239.0.1.53:4000
+#EXTINF:-1 group-title="Познавательные",Viasat Explore
+http://91.210.251.19:4866/udp/239.0.1.80:4000
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://91.210.251.19:4866/udp/239.0.1.108:4000
 #EXTINF:-1 group-title="Познавательные",Da Vinci
 http://91.210.251.19:4866/udp/239.0.1.107:4000
-#EXTINF:-1 group-title="Познавательные",Viasat Explore
-http://persik.by/stream/7504/377885/10280.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Nature
-http://persik.by/stream/7504/377885/10279.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat History
-http://persik.by/stream/7504/377885/10278.m3u8
-#EXTINF:-1 group-title="Познавательные",Авто Плюс
-http://persik.by/stream/7504/377885/311.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка ТВ
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",World HD
@@ -255,12 +159,6 @@ http://83.222.205.10:38080/konnyimir/index.m3u8
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Универ TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",ЛитКлуб ТВ Проза
-http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",ЛитКлуб ТВ Слово
-http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",ЛитКлуб ТВ Стихи
-http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Твое ТВ
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Твоё ТВ HD
@@ -271,8 +169,6 @@ http://91.210.251.19:4866/udp/239.0.1.39:4000
 http://91.210.251.19:4866/udp/239.0.1.40:4000
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://tv.streams.baikal-telecom.net/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Детские",Gulli Girl
-http://persik.by/stream/7504/377885/596.m3u8
 #EXTINF:-1 group-title="Детские",Gulli Girl
 http://91.210.251.19:4866/udp/239.0.1.70:4000
 #EXTINF:-1 group-title="Детские",TiJi
@@ -293,8 +189,6 @@ http://myott.top/stream/1VGPHYLZTH/82.m3u8
 http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
 #EXTINF:-1 group-title="Детские",Nickelodeon Europe
 http://91.210.251.19:4866/udp/239.0.1.51:4000
-#EXTINF:-1 group-title="Детские",Nickelodeon HD
-http://persik.by/stream/7504/377885/10420.m3u8
 #EXTINF:-1 group-title="Детские (Украина)",Niki Junior HD
 http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
 #EXTINF:-1 group-title="Детские (Украина)",Niki Kids
@@ -303,32 +197,10 @@ http://saveukraine.only4.tv/5516/video.m3u8?token=saveUkrain
 http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
 #EXTINF:-1 group-title="Детские (Украина)",Плюс Плюс
 http://91.210.251.19:4866/udp/239.0.2.28:4000
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/597.png",TiJi
-http://persik.by/stream/7504/377885/597.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/10741.png",Советские мультфильмы
-http://persik.by/stream/7504/377885/10741.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/11033.png",Мульт сериал HD
-http://persik.by/stream/7504/377885/11033.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/10541.png",МультиЁж
-http://persik.by/stream/7504/377885/10541.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/11032.png",Мультики HD
-http://persik.by/stream/7504/377885/11032.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/10748.png",Мультсериалы HD
-http://persik.by/stream/7504/377885/10748.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/10732.png",Детки HD
-http://persik.by/stream/7504/377885/10732.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/10746.png",Детские мультфильмы HD
-http://persik.by/stream/7504/377885/10746.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/11130.png",Детские фильмы
-http://persik.by/stream/7504/377885/11130.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://persik.tv/images/channels/logos/10688.png",Детский HD
-http://persik.by/stream/7504/377885/10688.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport HD
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Viasat Sport
-http://persik.by/stream/7504/377885/10277.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport
 http://91.210.251.19:4866/udp/239.0.1.99:4000
 #EXTINF:-1 group-title="Спорт",Матч! HD
@@ -367,18 +239,10 @@ http://91.210.251.19:4866/udp/239.0.1.89:4000
 http://91.210.251.19:4866/udp/239.0.1.34:4000
 #EXTINF:-1 group-title="Спорт",Футбол
 http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16B645F93F14F2B1AFA9F&profile=pass
-#EXTINF:-1 group-title="Спорт",Беларусь 5 HD
-http://persik.by/stream/7504/377885/10408.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ HD
-http://persik.by/stream/7504/377885/10242.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ ТВ
-http://persik.by/stream/7504/377885/604.m3u8
 #EXTINF:-1 group-title="Спорт",Спорт 1
 http://212.115.255.196/Jfd85Hf/sport1.m3u8
 #EXTINF:-1 group-title="Спорт",Спортивный HD
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Qazsport
-http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 group-title="Спорт",Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull TV
@@ -425,12 +289,6 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 #EXTINF:-1 group-title="Спорт",Bein Sports 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 group-title="Спорт",Vivaro Sport
-http://135.181.178.91/vmedia_live/1/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Vivaro Sport +
-http://135.181.178.91/vmedia_live/1/tracks-v1a2/index.m3u8
-#EXTINF:-1 group-title="Спорт",Vivaro Srena
-http://135.181.178.91/vmedia_live/1/tracks-v1a3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://91.210.251.19:4866/udp/239.0.1.95:4000
 #EXTINF:-1 group-title="Развлекательные",Суббота
@@ -505,8 +363,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Музыка",Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music HD
 http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1 group-title="Музыка",Ecnulo
@@ -623,6 +479,10 @@ http://live.redtraffic.xyz/milf.m3u8
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 group-title="Взрослые",POV HD 720
 http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="Взрослые",AST TV
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1 group-title="Взрослые",AST TV 2
+https://www.ast.tv/stream/2/cellular.m3u8
 #EXTINF:-1 group-title="Взрослые",Hustler HD
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/1
 #EXTINF:-1 group-title="Взрослые",Redlight HD
@@ -689,6 +549,52 @@ http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/31
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/32
 #EXTINF:-1 group-title="Взрослые",Evil Angel
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/33
+#EXTINF:-1 group-title="Взрослые",Mega 1
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17375
+#EXTINF:-1 group-title="Взрослые",Mega 2
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17376
+#EXTINF:-1 group-title="Взрослые",Mega 3
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17377
+#EXTINF:-1 group-title="Взрослые",Mega 4
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17378
+#EXTINF:-1 group-title="Взрослые",Mega 5
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17379
+#EXTINF:-1 group-title="Взрослые",Mega 6
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17380
+#EXTINF:-1 group-title="Взрослые",Mega 7
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17381
+#EXTINF:-1 group-title="Взрослые",Mega 8
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17382
+#EXTINF:-1 group-title="Взрослые",Mega 9
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17383
+#EXTINF:-1 group-title="Взрослые",Mega 10
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17384
+#EXTINF:-1 group-title="Взрослые",Prime 1
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17385
+#EXTINF:-1 group-title="Взрослые",Prime 2
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17386
+#EXTINF:-1 group-title="Взрослые",Prime 3
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17387
+#EXTINF:-1 group-title="Взрослые",Prime 4
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17388
+#EXTINF:-1 group-title="Взрослые",Prime 5
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17389
+#EXTINF:-1 group-title="Взрослые",Prime 6
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17390
+#EXTINF:-1 group-title="Взрослые",Prime 7
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17391
+#EXTINF:-1 group-title="Взрослые",Prime 8
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17392
+#EXTINF:-1 group-title="Взрослые",Prime 9
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17393
+#EXTINF:-1 group-title="Взрослые",Prime 10
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17394
+#EXTINF:-1 group-title="Взрослые",ALBA 1 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20400
+#EXTINF:-1 group-title="Взрослые",ALBA 2 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20399
+#EXTINF:-1 group-title="Взрослые",ALBA 3 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20398
 #EXTINF:-1 group-title="Взрослые",Erotic
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/34
 #EXTINF:-1 group-title="Взрослые",Erotic 2
