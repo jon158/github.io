@@ -1,391 +1,825 @@
 #EXTM3U
-#EXTINF:-1 ,23 ABC (KERO) (720p)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 ,30A Darcizzle Offshore
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 ,30A Investment Pitch
-https://www.30a-tv.com/InvPit.m3u8
-#EXTINF:-1 ,30A Music
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 ,30A Sidewalks
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 ,30A The Beach Show
-https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 ,30A TV
-https://30a-tv.com/my999.m3u8
-#EXTINF:-1 ,3ABN KIDS TV (720p)
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 ,3ABN Latino (720p)
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 ,3News Now (KMTV-TV) (720p)
-https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 ,7News Boston (WHDH) (540p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 ,A&E (1080p)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-#EXTINF:-1 ,ABC 15 (720p)
-https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
-#EXTINF:-1 ,ABC 2 Baton Rouge LA (WBRZ-HD) (720p)
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1 ,ABC 7 Denver (KMGH) (720p)
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 ,ABC 7 Sarasota FL (WWSB) (720p)
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1 ,ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 ,Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 ,AFV! (720p)
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 ,AKC TV
-https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
-#EXTINF:-1 ,AKC TV (1080p)
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-#EXTINF:-1 ,AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 ,AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
-#EXTINF:-1 ,AKC TV - Meet the Breeds
-https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
-#EXTINF:-1 ,AKC TV - Puppies
-https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
-#EXTINF:-1 ,Al Horreya TV (1080p)
-http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 ,Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 ,Albany | CBS 6 WRGB (720p)
-https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 ,Aliento Vision (480p)
-http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
-#EXTINF:-1 ,Aliento Vision
-http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 ,Alkarma TV Australia (1080p)
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-#EXTINF:-1 ,Alkarma TV Family (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
-#EXTINF:-1 ,Alkarma TV Middle East (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
-#EXTINF:-1 ,Alkarma TV Praise (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
-#EXTINF:-1 ,Alkarma TV Talmaza (Discipleship) (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-#EXTINF:-1 ,American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-#EXTINF:-1 ,American Horrors (480p)
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 ,American Horrors (480p)
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 ,AMG TV (480p)
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 ,AMGTV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1 ,Atlanta Channel (720p)
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV (30A) (720p)
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV (CSULB) (720p)
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 ,Beach TV (Panama City) (720p)
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV (Pawleys Island) (720p)
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 ,Bek Sports East (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 ,Bek Sports West (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 ,Beto TV (858p)
-https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-#EXTINF:-1 ,Bible Explorations (480p)
-http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1 ,BlazeTV (720p)
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
-#EXTINF:-1 ,Bloomberg TV Asia (720p)
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg TV Australia (720p)
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg TV Europe (720p)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg TV Europe (720p)
-https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 ,Bloomberg TV US (180p)
-https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8
-#EXTINF:-1 ,Bloomberg TV US (720p)
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 ,Bloomberg TV US (180p)
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 ,Bloomberg TV+ US (1080p)
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 ,BUTV10 (Boston University)
-http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 ,Buzzr (1080p)
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:-1 ,CBS News (720p)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 ,CBS News Boston (720p)
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
-#EXTINF:-1 ,CBS News Los Angeles (720p)
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 ,CBSN (720p)
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-#EXTINF:-1 ,CBSN (720p)
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1 ,CBSN (720p)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 ,CBSN Bay Area (720p)
-https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
-#EXTINF:-1 ,CBSN Minnesota (720p)
-https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
-#EXTINF:-1 ,CBSN New York (720p)
-https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-#EXTINF:-1 ,CBSN Philly (720p)
-https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
-#EXTINF:-1 ,CCX1
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 ,Christian Youth Channel (720p)
-http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
-#EXTINF:-1 ,Cloudflare TV
-https://cloudflare.tv/hls/live.m3u8
-#EXTINF:-1 ,CMC-USA (1080p)
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 ,CTN (404p)
-http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
-#EXTINF:-1 ,CTN
-http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
-#EXTINF:-1 ,CTN
-https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
-#EXTINF:-1 ,DC Council Channel
-https://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 ,District of Columbia Network (1080p)
-https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 ,Divine Vision (480p)
-https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
-#EXTINF:-1 ,Docurama (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 ,Dove Channel (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1 ,Dove Channel (1080p)
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 ,Dust (Sci-Fi) (720p)
-https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
-#EXTINF:-1 ,Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1 ,Edge Sports (1080p)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 ,Elbeshara Tv
-http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
-#EXTINF:-1 ,Fail Army (720p)
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 ,Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 ,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 ,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 ,Folk TV (480p)
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 ,FOX 28 Savannah GA (WTGS) (720p)
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 ,FOX 28 WTGS (720p)
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 ,FOX Sport HD 1 (720p)
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 ,Futurism (720p)
-https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-#EXTINF:-1 ,Galveston County TV (720p)
-https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
-#EXTINF:-1 ,Glendale 11 (360p)
-https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
-#EXTINF:-1 ,Glewed TV (720p)
-https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#EXTINF:-1 ,Globesville (New York Institute of Technology) (720p)
-https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8
-#EXTINF:-1 ,Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 ,Hi-Yah!
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 ,IGN (1080p)
-https://ign-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Infowars
-http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-1 ,InfoWars (720p)
-https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
-#EXTINF:-1 ,JBS
-https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 ,Jewelry Television (720p)
-https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 ,KBP SPORTS (720p)
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 ,Key TV (720p)
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 ,KOMO News (KOMO-TV) (720p)
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 ,KTLA 5 (720p)
-https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
-#EXTINF:-1 ,KVVB-TV 33 (1080p)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1 ,La Mega Mundial (720p)
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 ,La Mega Mundial (720p)
-https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 ,Las Vegas - 13 Action News (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:-1 ,Law & Crime (720p)
-https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 ,Law And Crime Network (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 ,Leominster TV Educational (1080p)
-http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
-#EXTINF:-1 ,Leominster TV Government (1080p)
-http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
-#EXTINF:-1 ,Leominster TV Public (1080p)
-http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
-#EXTINF:-1 ,LifevisionTV (720p)
-https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:-1 ,Live Live (1080p)
-https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 ,Love Nature (1080p)
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Magellan TV (720p)
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 ,Maverick Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 ,Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 ,Miami TV MГ©xico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-#EXTINF:-1 ,Mission TV
-http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8
-#EXTINF:-1 ,MLB Network
-https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 ,Mobcrush (720p)
-https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
-#EXTINF:-1 ,Music Baeble (1080p)
-https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
-#EXTINF:-1 ,NASA TV (720p)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 ,NASA TV Media (720p)
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 ,NASA TV Public (720p)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD Russia
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 ,NBC 15 Madison WI (WMTVNBC) (720p)
-https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 ,NBC 26 (WGBA) (720p)
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 ,NBC News Now (1080p)
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:-1 ,New Orleans TV (720p)
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 ,Newsmax (1080p)
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,Newsy (720p)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 ,Newsy (720p)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 ,Newsy (1080p)
-https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
-#EXTINF:-1 ,Nothing Scripted
-https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 ,NRBTV (480p)
-https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 ,OANN One America News Network (720p)
-http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-#EXTINF:-1 ,Omaha | CBS 3 KMTV (720p)
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 ,Orange TV (720p)
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
-#EXTINF:-1 ,Outdoor America (720p)
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 ,Pop (1080p)
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 ,Qello Concerts (1080p)
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 ,Radio Tele Boston (480p)
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-#EXTINF:-1 ,SBN
-https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
-#EXTINF:-1 ,SBN Global
-https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
-#EXTINF:-1 ,Shop HQ (720p)
-https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
-#EXTINF:-1 ,Shout Factory TV (1080p)
-https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 ,Stadium (720p)
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 ,Stingray Karaoke (1080p)
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 ,Stingray Naturescape (1080p)
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 ,STIRR 2020 LIVE (720p)
-https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
-#EXTINF:-1 ,STIRR Biographies (720p)
-https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
-#EXTINF:-1 ,STIRR Black Cinema (720p)
-https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
-#EXTINF:-1 ,STIRR CITY (720p)
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 ,STIRR Comedy (720p)
-https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
-#EXTINF:-1 ,STIRR Cooks (720p)
-https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
-#EXTINF:-1 ,STIRR COVID-19 NEWS (720p)
-https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
-#EXTINF:-1 ,STIRR Fit (720p)
-https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
-#EXTINF:-1 ,STIRR Movies (720p)
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 ,STIRR Music (720p)
-https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
-#EXTINF:-1 ,STIRR Sports (720p)
-https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
-#EXTINF:-1 ,STIRR Travel (720p)
-https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
-#EXTINF:-1 ,STIRR Westerns (720p)
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 ,TAG TV
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1 ,Tastemade (1080p)
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
-#EXTINF:-1 ,TBD (720p)
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-#EXTINF:-1 ,TBD. (720p)
-https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:-1 ,TCT
-https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
-#EXTINF:-1 ,TCT Kids
-https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-#EXTINF:-1 ,The 360 Channel
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:-1 ,The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 ,The Film Detective (720p)
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 ,The Now Network (480p)
-https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
-#EXTINF:-1 ,The Shopping Channel (720p)
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 ,The Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 ,TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,Trinity Channel
-http://rtmp1.abnsat.com/hls/trinity.m3u8
-#EXTINF:-1 ,TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 ,Waypoint (720p)
-https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
-#EXTINF:-1 ,White Plains Community Media (360p)
-https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
-#EXTINF:-1 ,World Poker Tour (1080p)
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1 ,WOW! TV (720p)
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,WOW! TV (720p)
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 ,WPEC CBS12 News (720p)
-https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="USA | A&E" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="USA | BASIC",USA | A&E
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145912
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="USA | ADULT SWIM" tvg-logo="http://un-pluggedtv.net:8080/images/1ba98ca1509c2c8b751a72a8a5429c35.png" group-title="USA | BASIC",USA | ADULT SWIM
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145913
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC HD" tvg-logo="http://un-pluggedtv.net:8080/images/19e5d0c769a5459b8bf08d15186803bb.png" group-title="USA | BASIC",USA | AMC HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145914
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="USA | AMC+" tvg-logo="http://un-pluggedtv.net:8080/images/a0f51adc850787b366e4ec16df064428.png" group-title="USA | BASIC",USA | AMC+
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145915
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="USA | AMERICAN HEROS CHANNEL" tvg-logo="http://un-pluggedtv.net:8080/images/41b60bedce7778b77acaf64cfa067f2d.png" group-title="USA | BASIC",USA | AMERICAN HEROS CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145916
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="USA | ANIMAL PLANET" tvg-logo="http://un-pluggedtv.net:8080/images/9e0bed69858a3eec7dde677072dfb39f.png" group-title="USA | BASIC",USA | ANIMAL PLANET
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145917
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="USA | ANTENNA TV" tvg-logo="http://un-pluggedtv.net:8080/images/c2c1e527f02a615d096c56ac577f4216.png" group-title="USA | BASIC",USA | ANTENNA TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145918
+#EXTINF:-1 tvg-id="AspireTV.us" tvg-name="USA | ASPIRE" tvg-logo="http://un-pluggedtv.net:8080/images/73cef6c3411c25ee858525550899bf3d.png" group-title="USA | BASIC",USA | ASPIRE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145919
+#EXTINF:-1 tvg-id="AWealthofEntertainment.us" tvg-name="USA | AWE" tvg-logo="http://un-pluggedtv.net:8080/images/3f3575221cf4993838e239a7c2b2a9ca.png" group-title="USA | BASIC",USA | AWE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145920
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="USA | AXS TV" tvg-logo="http://un-pluggedtv.net:8080/images/f8940140a6782beff4c7eddcb4b02b8a.png" group-title="USA | BASIC",USA | AXS TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145921
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="USA | BBC AMERICA" tvg-logo="http://un-pluggedtv.net:8080/images/575ed24e9b2dfb5873eb9fddfc33fa7d.jpg" group-title="USA | BASIC",USA | BBC AMERICA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145922
+#EXTINF:-1 tvg-id="bet.us" tvg-name="USA | BET" tvg-logo="http://un-pluggedtv.net:8080/images/0c23eba97720c742fe3ad8210e57e13d.png" group-title="USA | BASIC",USA | BET
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145923
+#EXTINF:-1 tvg-id="BetHer.us" tvg-name="USA | BET HER" tvg-logo="http://un-pluggedtv.net:8080/images/9bcf1c764ac9461a4cf4d1e12a24bd6a.png" group-title="USA | BASIC",USA | BET HER
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145924
+#EXTINF:-1 tvg-id="BETjams.us" tvg-name="USA | BET JAMS" tvg-logo="http://un-pluggedtv.net:8080/images/0c0ab352cd3bc627d6a71119bb05ff6b.png" group-title="USA | BASIC",USA | BET JAMS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145925
+#EXTINF:-1 tvg-id="BETSoul.us" tvg-name="USA | BET SOUL" tvg-logo="http://un-pluggedtv.net:8080/images/bb2d41d852b054999a0a72405ca31407.png" group-title="USA | BASIC",USA | BET SOUL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145926
+#EXTINF:-1 tvg-id="BNC.us" tvg-name="USA | Black News Channel" tvg-logo="http://un-pluggedtv.net:8080/images/47c31c02c74226cd61ef45635b37fdeb.png" group-title="USA | BASIC",USA | Black News Channel
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145927
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="USA | BOUNCE" tvg-logo="http://un-pluggedtv.net:8080/images/a8e0e416c7a7ee8cff2acc3fd91fb6c7.png" group-title="USA | BASIC",USA | BOUNCE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145928
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="USA | BRAVO EAST" tvg-logo="http://un-pluggedtv.net:8080/images/7b44a30de71c6832621a79844e8838da.png" group-title="USA | BASIC",USA | BRAVO EAST
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145929
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="USA | BUZZR" tvg-logo="http://un-pluggedtv.net:8080/images/c437eb8e130142f4884bfdb1a2a862b2.png" group-title="USA | BASIC",USA | BUZZR
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145930
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA | CMT" tvg-logo="http://un-pluggedtv.net:8080/images/7af7edec6eb54299fa1e76f63ab79fad.png" group-title="USA | BASIC",USA | CMT
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145932
+#EXTINF:-1 tvg-id="justicecentral.us" tvg-name="USA | COMEDY CENTRAL" tvg-logo="http://un-pluggedtv.net:8080/images/76b4decddc2f0f9e1de62972b5215afc.png" group-title="USA | BASIC",USA | COMEDY CENTRAL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145933
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="USA | COMET" tvg-logo="http://un-pluggedtv.net:8080/images/edfbacd6a358b585d160cf9a20819d96.png" group-title="USA | BASIC",USA | COMET
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145934
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="USA | COOKING CHANNEL" tvg-logo="http://un-pluggedtv.net:8080/images/924644c4e8e776ad0542dc342b41d2bb.png" group-title="USA | BASIC",USA | COOKING CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145935
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="USA | COURT TV" tvg-logo="http://un-pluggedtv.net:8080/images/ff0061ad0de315b1b7de0a4e94a3d7d7.jpg" group-title="USA | BASIC",USA | COURT TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145936
+#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="USA | COZI" tvg-logo="http://un-pluggedtv.net:8080/images/e5f0426d38093d68c1ee37ad4e8f2e86.png" group-title="USA | BASIC",USA | COZI
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145937
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="USA | Crime & Investigation" tvg-logo="http://un-pluggedtv.net:8080/images/ce457994cc3b00466600c64ba9ce5f3e.png" group-title="USA | BASIC",USA | Crime & Investigation
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145938
+#EXTINF:-1 tvg-id="" tvg-name="USA | DABL TV" tvg-logo="http://un-pluggedtv.net:8080/images/21c8728c3491af37386d260e197ad175.png" group-title="USA | BASIC",USA | DABL TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145939
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="USA | DESTINATION AMERICA" tvg-logo="http://un-pluggedtv.net:8080/images/714c1395c1db930be3408474f5307c1c.png" group-title="USA | BASIC",USA | DESTINATION AMERICA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145941
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA | DISCOVERY CHANNEL" tvg-logo="http://un-pluggedtv.net:8080/images/813513ce030768aab17b38d54a047587.png" group-title="USA | BASIC",USA | DISCOVERY CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145942
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="USA | DISCOVERY FAMILY" tvg-logo="http://un-pluggedtv.net:8080/images/10530365e0ee56cba31169318a730557.png" group-title="USA | BASIC",USA | DISCOVERY FAMILY
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145943
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="USA | DISCOVERY LIFE" tvg-logo="http://un-pluggedtv.net:8080/images/68c8c7f8417d7e4fd093507b43f8e859.png" group-title="USA | BASIC",USA | DISCOVERY LIFE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145944
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | DISCOVERY SCIENCE" tvg-logo="http://un-pluggedtv.net:8080/images/da8ac601fa6360317336e44ecb6b3790.png" group-title="USA | BASIC",USA | DISCOVERY SCIENCE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145945
+#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="USA | DISCOVERY VELOCITY (MOTORTREND)" tvg-logo="http://un-pluggedtv.net:8080/images/c364778261e11fb446593c5d4e9dc258.png" group-title="USA | BASIC",USA | DISCOVERY VELOCITY (MOTORTREND)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145946
+#EXTINF:-1 tvg-id="24/7 1000 WAYS TO DIE" tvg-name="USA | DIY Network" tvg-logo="http://un-pluggedtv.net:8080/images/89c3154699a0da6a3f599eb17b2edfc0.png" group-title="USA | BASIC",USA | DIY Network
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145947
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="USA | DOG TV" tvg-logo="http://un-pluggedtv.net:8080/images/1a436d08e524f50252849b943f279a26.png" group-title="USA | BASIC",USA | DOG TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145948
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="USA | E! ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/detail/406-4065017_e-tv-1-logo-png-transparent-e-entertainment.png" group-title="USA | BASIC",USA | E! ENTERTAINMENT
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145949
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="USA | FOOD NETWORK" tvg-logo="http://un-pluggedtv.net:8080/images/2588b95ee34e39f115e859619c350c33.png" group-title="USA | BASIC",USA | FOOD NETWORK
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145951
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="USA | FREEFORM" tvg-logo="http://un-pluggedtv.net:8080/images/4ea3147216f3d8b63268ef1d55750f26.png" group-title="USA | BASIC",USA | FREEFORM
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145952
+#EXTINF:-1 tvg-id="dust.us" tvg-name="USA | FUSE" tvg-logo="http://un-pluggedtv.net:8080/images/3752357110c8147a62242eed5dcb8b8b.png" group-title="USA | BASIC",USA | FUSE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145953
+#EXTINF:-1 tvg-id="fx.us" tvg-name="USA | FX" tvg-logo="http://un-pluggedtv.net:8080/images/fe943df7ac4737b7d0f62d0bc86fe26a.png" group-title="USA | BASIC",USA | FX
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145954
+#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="USA | FXM (Retro)" tvg-logo="http://un-pluggedtv.net:8080/images/167534a2eb0447bc65ef87de0d4fd428.png" group-title="USA | BASIC",USA | FXM (Retro)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145955
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="USA | FXX" tvg-logo="http://un-pluggedtv.net:8080/images/89f43b4ae4b3506c74aaf9ddd6a1b74a.png" group-title="USA | BASIC",USA | FXX
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145956
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="USA | FYI" tvg-logo="http://un-pluggedtv.net:8080/images/603e2bc19150fc24cf41e37b72b18110.png" group-title="USA | BASIC",USA | FYI
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145957
+#EXTINF:-1 tvg-id="GACFamily.us" tvg-name="USA | GAC FAMILY" tvg-logo="http://un-pluggedtv.net:8080/images/67af8bef234f8a2b1f93af3f325df4c2.png" group-title="USA | BASIC",USA | GAC FAMILY
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145958
+#EXTINF:-1 tvg-id="10Bold.au" tvg-name="USA | GET TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/GetTV_2016_logo.png/revision/latest?cb=20161005001607" group-title="USA | BASIC",USA | GET TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145959
+#EXTINF:-1 tvg-id="grit.us" tvg-name="USA | GRIT" tvg-logo="http://un-pluggedtv.net:8080/images/065665ce79099ec4e2f354997731b8eb.png" group-title="USA | BASIC",USA | GRIT
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145960
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA | GSN" tvg-logo="http://un-pluggedtv.net:8080/images/dfd94c28ed9bdf9339a6b3c17d6bcbad.png" group-title="USA | BASIC",USA | GSN
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145961
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA | HALLMARK CHANNEL" tvg-logo="http://un-pluggedtv.net:8080/images/fc3547042b986b27d2c4e424651e5075.png" group-title="USA | BASIC",USA | HALLMARK CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145962
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="USA | HALLMARK DRAMA" tvg-logo="http://un-pluggedtv.net:8080/images/c9b22d4a8b9988ba96579c2f2f774e9e.png" group-title="USA | BASIC",USA | HALLMARK DRAMA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145963
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="USA | HALLMARK MOVIES AND MYSTERIES" tvg-logo="http://un-pluggedtv.net:8080/images/1eac9f40fa52168aec8ea909292fec6f.png" group-title="USA | BASIC",USA | HALLMARK MOVIES AND MYSTERIES
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145964
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="USA | HEROS & ICONS (H&I)" tvg-logo="http://un-pluggedtv.net:8080/images/ac3d3c1d29633b944281f22dd8843291.png" group-title="USA | BASIC",USA | HEROS & ICONS (H&I)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145965
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA | HGTV " tvg-logo="http://un-pluggedtv.net:8080/images/4c1f163a271e2a4d7b827318e7875d97.png" group-title="USA | BASIC",USA | HGTV 
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145966
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA | HISTORY CHANNEL" tvg-logo="http://un-pluggedtv.net:8080/images/ac4458c31ff83c5acfdb64d7a66d89a8.png" group-title="USA | BASIC",USA | HISTORY CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145967
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="USA | HLN" tvg-logo="http://un-pluggedtv.net:8080/images/96eea7d1c6891110e44a9b47aa566c06.png" group-title="USA | BASIC",USA | HLN
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145968
+#EXTINF:-1 tvg-id="HomeShoppingNetwork.us" tvg-name="USA | HSN" tvg-logo="http://un-pluggedtv.net:8080/images/943eb933b92cc0ef56b340b8bfd501f0.png" group-title="USA | BASIC",USA | HSN
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145969
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="USA | INSP" tvg-logo="http://un-pluggedtv.net:8080/images/f0a09355af523b2f97ff30325ae5a08a.png" group-title="USA | BASIC",USA | INSP
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145970
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="USA | INVESTIGATION DISCOVERY (ID)" tvg-logo="http://un-pluggedtv.net:8080/images/bb2e68f5aad696bc026c71ea492744e2.png" group-title="USA | BASIC",USA | INVESTIGATION DISCOVERY (ID)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145971
+#EXTINF:-1 tvg-id="ion.us" tvg-name="USA | ION TV" tvg-logo="http://un-pluggedtv.net:8080/images/9e368a75ae32303bd4e29d954c406664.png" group-title="USA | BASIC",USA | ION TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145972
+#EXTINF:-1 tvg-id="JusticeCentral.us" tvg-name="USA | JUSTICE CENTRAL" tvg-logo="http://un-pluggedtv.net:8080/images/f20b5e6da65c0af44430982d0adde6e0.png" group-title="USA | BASIC",USA | JUSTICE CENTRAL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145973
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="USA | LAW & CRIME" tvg-logo="https://cdn-profiles.tunein.com/s306885/images/logod.png?t=153899" group-title="USA | BASIC",USA | LAW & CRIME
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145974
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="USA | LIFETIME" tvg-logo="http://un-pluggedtv.net:8080/images/331ed07e7de0e7b5866cc1af25123d5b.png" group-title="USA | BASIC",USA | LIFETIME
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145975
+#EXTINF:-1 tvg-id="10Bold.au" tvg-name="USA | LOGO" tvg-logo="http://un-pluggedtv.net:8080/images/931babe325f2ac373817942ed5a4a581.png" group-title="USA | BASIC",USA | LOGO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145976
+#EXTINF:-1 tvg-id="metv.us" tvg-name="USA | ME TV" tvg-logo="http://un-pluggedtv.net:8080/images/b74e931973e5a1b4e755dbe06a6c56e2.png" group-title="USA | BASIC",USA | ME TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145977
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="USA | MTV" tvg-logo="http://un-pluggedtv.net:8080/images/e4d93f392f132d6313eb0f067fd7796c.png" group-title="USA | BASIC",USA | MTV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145978
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="USA | MTV 2" tvg-logo="http://un-pluggedtv.net:8080/images/5681de4ccbeaa07166f301fb798878a6.png" group-title="USA | BASIC",USA | MTV 2
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145979
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="USA | MTV CLASSIC" tvg-logo="http://un-pluggedtv.net:8080/images/5c226bf04f30652bdc6ddee4f2e46bf6.png" group-title="USA | BASIC",USA | MTV CLASSIC
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145980
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="USA | MTV LIVE" tvg-logo="http://un-pluggedtv.net:8080/images/0b154974190cdb1c21dce1b1fdaafc35.png" group-title="USA | BASIC",USA | MTV LIVE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145981
+#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="USA | NASA TV HD" tvg-logo="http://un-pluggedtv.net:8080/images/1be458a8b064ff3eb7a4331922fb6f36.png" group-title="USA | BASIC",USA | NASA TV HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145982
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA | NATGEO" tvg-logo="http://un-pluggedtv.net:8080/images/bbc6152be681f21578fb4844fb7925b3.png" group-title="USA | BASIC",USA | NATGEO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145983
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="USA | NATGEO WILD" tvg-logo="http://un-pluggedtv.net:8080/images/31685bc726016ea89563466eb99193f5.png" group-title="USA | BASIC",USA | NATGEO WILD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145984
+#EXTINF:-1 tvg-id="Ovation.us" tvg-name="USA | OVATION" tvg-logo="http://un-pluggedtv.net:8080/images/1533f7d04db20d4e8f03de1e39c36a04.jpg" group-title="USA | BASIC",USA | OVATION
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145985
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA | OWN" tvg-logo="http://un-pluggedtv.net:8080/images/4217c88379b2f49f0b6b4a19e57ed81e.png" group-title="USA | BASIC",USA | OWN
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145986
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="USA | OXYGEN" tvg-logo="http://un-pluggedtv.net:8080/images/8e7cf3da14b7a8ceaaefd3af97941bcc.png" group-title="USA | BASIC",USA | OXYGEN
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145987
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="USA | PARAMOUNT NETWORK" tvg-logo="http://un-pluggedtv.net:8080/images/b8d23ce5088382253e9cf0eb42cec19e.png" group-title="USA | BASIC",USA | PARAMOUNT NETWORK
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145988
+#EXTINF:-1 tvg-id="" tvg-name="USA | PEOPLE TV" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-us-east-2-fastly-a.www.philo.com%2Fimages%2Fchannel_logos%2FPEOPLTV%2Flarge_dark.png&f=1&nofb=1" group-title="USA | BASIC",USA | PEOPLE TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145989
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="USA | QVC" tvg-logo="http://un-pluggedtv.net:8080/images/547cf4c90822a4be3d76717391d7c43f.png" group-title="USA | BASIC",USA | QVC
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145991
+#EXTINF:-1 tvg-id="QVCPlus.us" tvg-name="USA | QVC 2" tvg-logo="http://un-pluggedtv.net:8080/images/b7dacfc887cc8e798e204d62d428cfd7.png" group-title="USA | BASIC",USA | QVC 2
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145992
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="USA | REELZ" tvg-logo="http://un-pluggedtv.net:8080/images/0873377fc02b98be8b02e6905a07abd1.png" group-title="USA | BASIC",USA | REELZ
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145993
+#EXTINF:-1 tvg-id="RETROplex.us" tvg-name="USA | RETRO PLEX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Retroplex_logo.svg/revision/latest/scale-to-width-down/200?cb=20100322084249" group-title="USA | BASIC",USA | RETRO PLEX
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145994
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="USA | REVOLT" tvg-logo="http://un-pluggedtv.net:8080/images/c36cb59a04d5bd6a93a944d28d607291.png" group-title="USA | BASIC",USA | REVOLT
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145995
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="USA | SMITHSONIAN CHANNEL" tvg-logo="http://un-pluggedtv.net:8080/images/de9d9004412aa61754891d866b372fd4.png" group-title="USA | BASIC",USA | SMITHSONIAN CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145996
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="USA | SUNDANCE" tvg-logo="http://un-pluggedtv.net:8080/images/1fed534516eb0fe9d19202046e9fa451.png" group-title="USA | BASIC",USA | SUNDANCE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145997
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="USA | SYFY" tvg-logo="http://un-pluggedtv.net:8080/images/097f237bd4aab234fc91e5dd8c911ca5.png" group-title="USA | BASIC",USA | SYFY
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145998
+#EXTINF:-1 tvg-id="" tvg-name="USA | TASTEMADE" tvg-logo="http://un-pluggedtv.net:8080/images/d0d166e8d9bee9d3e7d0520819d22bd0.png" group-title="USA | BASIC",USA | TASTEMADE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145999
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="USA | TBS EAST" tvg-logo="http://un-pluggedtv.net:8080/images/d55a490cbf95c2f83462f0849c6e0ae8.png" group-title="USA | BASIC",USA | TBS EAST
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146000
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="USA | TCM" tvg-logo="http://un-pluggedtv.net:8080/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="USA | BASIC",USA | TCM
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146001
+#EXTINF:-1 tvg-id="muse.al" tvg-name="USA | TLC" tvg-logo="http://un-pluggedtv.net:8080/images/12c5cec6c7bfc8f2ea96f31e7cc76c55.png" group-title="USA | BASIC",USA | TLC
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146002
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="USA | TNT EAST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzu2a7KPLtANm-aLNRv9YaHXZVjgo27mkOeMHc2UEYOgOEtOup&s" group-title="USA | BASIC",USA | TNT EAST
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146003
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="USA | TRAVEL CHANNEL" tvg-logo="http://un-pluggedtv.net:8080/images/91e9466842c4ddd266095fa313f1ac39.png" group-title="USA | BASIC",USA | TRAVEL CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146004
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="USA | TRUTV EAST" tvg-logo="http://un-pluggedtv.net:8080/images/7c0de871e877a74a2f390dcb6dd98d73.png" group-title="USA | BASIC",USA | TRUTV EAST
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146005
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA | TV LAND" tvg-logo="http://un-pluggedtv.net:8080/images/2f585bd733be6f769910cc1ee8c17b4f.png" group-title="USA | BASIC",USA | TV LAND
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146006
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="USA | TV ONE" tvg-logo="http://un-pluggedtv.net:8080/images/77e7a18f5716489c9e4c378e0385725b.png" group-title="USA | BASIC",USA | TV ONE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146007
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA | USA NETWORK" tvg-logo="http://un-pluggedtv.net:8080/images/4e1e487929068d58af9fde212d80d0bd.png" group-title="USA | BASIC",USA | USA NETWORK
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146008
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="USA | VH1" tvg-logo="http://un-pluggedtv.net:8080/images/a7eea859fabc969568b41d917aeb9ca2.png" group-title="USA | BASIC",USA | VH1
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146009
+#EXTINF:-1 tvg-id="evilangel.us" tvg-name="USA | VICELAND" tvg-logo="http://un-pluggedtv.net:8080/images/13fab3c0c7a9d7537532ec0e8884f3ff.png" group-title="USA | BASIC",USA | VICELAND
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146010
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="USA | WE TV" tvg-logo="http://un-pluggedtv.net:8080/images/28258448e1736ccccc86fa6bc96abb40.png" group-title="USA | BASIC",USA | WE TV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146011
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="USA | WEATHER CHANNEL" tvg-logo="http://un-pluggedtv.net:8080/images/cc56a1e72bad7cee58b236b78d01eee8.png" group-title="USA | BASIC",USA | WEATHER CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146012
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="USA | DISNEY CHANNEL" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" group-title="USA | BASIC",USA | DISNEY CHANNEL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146675
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA | DISNEY JR" tvg-logo="http://un-pluggedtv.net:8080/images/7b560a73185805d6904181cd85bc8d1d.png" group-title="USA | BASIC",USA | DISNEY JR
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146676
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="USA | NICK JR" tvg-logo="http://un-pluggedtv.net:8080/images/1499c975b5b7590e6d56bb907e22faa8.png" group-title="USA | BASIC",USA | NICK JR
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146677
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="USA | NICK MUSIC" tvg-logo="http://un-pluggedtv.net:8080/images/675d5bc11f79b4761671d9eae34ff788.png" group-title="USA | BASIC",USA | NICK MUSIC
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146678
+#EXTINF:-1 tvg-id="fusion.us" tvg-name="USA | NICK TOONS" tvg-logo="http://un-pluggedtv.net:8080/images/f23832a88b39191189872d3a5e273969.png" group-title="USA | BASIC",USA | NICK TOONS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146679
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="USA | NICKELODEON" tvg-logo="http://un-pluggedtv.net:8080/images/bcd716d621991584006e4f9bad7a1f6c.png" group-title="USA | BASIC",USA | NICKELODEON
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146680
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="USA | PBS KIDS" tvg-logo="http://un-pluggedtv.net:8080/images/25200b24af24de3cc3722c7acbc6c476.png" group-title="USA | BASIC",USA | PBS KIDS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146681
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="USA | TEEN NICK" tvg-logo="http://un-pluggedtv.net:8080/images/e4c2ac1ceb834f05cdca7a81465c73d8.png" group-title="USA | BASIC",USA | TEEN NICK
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146682
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="USA | UNIVERSAL KIDS" tvg-logo="http://un-pluggedtv.net:8080/images/c926f907a36c1ce1e8479bac8cdb6d96.png" group-title="USA | BASIC",USA | UNIVERSAL KIDS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146683
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="USA | Disney XD" tvg-logo="http://un-pluggedtv.net:8080/images/fbbc6297045c7a2a67d30c7c929318f5.png" group-title="USA | BASIC",USA | Disney XD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/146684
+#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="US: WGN AMERICA" tvg-logo="http://teamnutz.info/guide/logos/WGN%209.png" group-title="USA | LOCAL",US: WGN AMERICA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34898
+#EXTINF:-1 tvg-id="PBSNJTV.us" tvg-name="US: NEWS 12 NEW JERSEY" tvg-logo="https://pcjatv.us/icon/news12.png" group-title="USA | LOCAL",US: NEWS 12 NEW JERSEY
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/132220
+#EXTINF:-1 tvg-id="news12bronx.us" tvg-name="US: NEWS 12 THE BRONX" tvg-logo="https://pcjatv.us/icon/news12.png" group-title="USA | LOCAL",US: NEWS 12 THE BRONX
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/132221
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA | MY 9 NEW YORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7aoh3nZpTVJ0iK7pBp5dVz9UE_oo6d9xw_G-PQUFozl4XL4C&s" group-title="USA | LOCAL",USA | MY 9 NEW YORK
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142368
+#EXTINF:-1 tvg-id="MY13KCOP.us" tvg-name="USA | MY 13 LOS ANGELES" tvg-logo="http://un-pluggedtv.net:8080/images/8b87a24764ae2da3b7a31f3570bf0aa5.png" group-title="USA | LOCAL",USA | MY 13 LOS ANGELES
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142369
+#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="USA | WGN AMERICA" tvg-logo="https://yt3.ggpht.com/a/AGF-l78FS1NeRx6pE5TxBxEQodQOVQqhNm61YsDQeQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA | LOCAL",USA | WGN AMERICA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142370
+#EXTINF:-1 tvg-id="WGN9Chicago.us" tvg-name="USA | WGN CHICAGO 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwgcqb00fd0ggWtbEXxs-Z4n_Mi47S-3vKszwhp5ub7N9aBkH&s" group-title="USA | LOCAL",USA | WGN CHICAGO 9
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142371
+#EXTINF:-1 tvg-id="" tvg-name="US: CW" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",US: CW
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142374
+#EXTINF:-1 tvg-id="CW57WPSG.us" tvg-name="USA CW East Philadelphia UHD" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW East Philadelphia UHD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142375
+#EXTINF:-1 tvg-id="" tvg-name="USA CW11 (KSTW) Seattle" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW11 (KSTW) Seattle
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142376
+#EXTINF:-1 tvg-id="ABCWISN.us" tvg-name="USA CW18 (WVTV) Milwaukee" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW18 (WVTV) Milwaukee
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142378
+#EXTINF:-1 tvg-id="WTTO.us" tvg-name="USA CW21 (WTTO) Birmingham" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW21 (WTTO) Birmingham
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142380
+#EXTINF:-1 tvg-id="WLFL.us" tvg-name="USA CW22 (WLFL) Raleigh" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW22 (WLFL) Raleigh
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142381
+#EXTINF:-1 tvg-id="" tvg-name="USA CW23 (WUCW) Saint Paul" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW23 (WUCW) Saint Paul
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142382
+#EXTINF:-1 tvg-id="CWKVCW.us" tvg-name="USA CW33 (KVCW) Las Vegas" tvg-logo="http://un-pluggedtv.net:8080/images/18ec47706444e7e04e518fac2c48f434.png" group-title="USA | LOCAL",USA CW33 (KVCW) Las Vegas
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142383
+#EXTINF:-1 tvg-id="KOCO.us" tvg-name="USA CW34 (KOCB) Oklahoma City" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW34 (KOCB) Oklahoma City
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142384
+#EXTINF:-1 tvg-id="" tvg-name="USA CW38 (WSWB) Wilkes-Barre" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW38 (WSWB) Wilkes-Barre
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142386
+#EXTINF:-1 tvg-id="WWHO.us" tvg-name="USA CW53 (WWHO) Columbus" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW53 (WWHO) Columbus
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142390
+#EXTINF:-1 tvg-id="CW57WPSG.us" tvg-name="USA CW57 (WPSG) Philadelphia" tvg-logo="http://un-pluggedtv.net:8080/images/130bdbb758e07793fa6e4657c14ad520.png" group-title="USA | LOCAL",USA CW57 (WPSG) Philadelphia
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142391
+#EXTINF:-1 tvg-id="" tvg-name="USA CW58 (WNAB) Nashville" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW58 (WNAB) Nashville
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142392
+#EXTINF:-1 tvg-id="WUPA.us" tvg-name="USA CW69 (WUPA) Atlanta" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW69 (WUPA) Atlanta
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142393
+#EXTINF:-1 tvg-id="" tvg-name="USA: MY50" tvg-logo="" group-title="USA | LOCAL",USA: MY50
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142395
+#EXTINF:-1 tvg-id="CWKMAX.us" tvg-name="USA CW (KMAX) SACRAMENTO" tvg-logo="http://un-pluggedtv.net:8080/images/772cefa574c6c2a2fdcc5aec4dba80b6.png" group-title="USA | LOCAL",USA CW (KMAX) SACRAMENTO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/142396
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147297
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147298
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147299
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO 2 (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO 2 (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147300
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO 2 (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO 2 (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147301
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Comedy (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Comedy (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147302
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Comedy (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Comedy (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147303
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Family (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Family (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147304
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Family (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Family (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147305
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO LATINO (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO LATINO (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147306
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO LATINO (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO LATINO (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147307
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="USA | HBO Signature (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Signature (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147308
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Signature (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Signature (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147309
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Zone (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Zone (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147310
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Zone (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Zone (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147311
+#EXTINF:-1 tvg-id="" tvg-name="USA | CineMAX (East)" tvg-logo="" group-title="USA | PREMIUM",USA | CineMAX (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147313
+#EXTINF:-1 tvg-id="" tvg-name="USA | CineMAX (West)" tvg-logo="" group-title="USA | PREMIUM",USA | CineMAX (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147314
+#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX (East)" tvg-logo="" group-title="USA | PREMIUM",USA | EPIX (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147315
+#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX (West)" tvg-logo="" group-title="USA | PREMIUM",USA | EPIX (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147316
+#EXTINF:-1 tvg-id="" tvg-name="USA | Epix 2" tvg-logo="" group-title="USA | PREMIUM",USA | Epix 2
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147317
+#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX Drive-In" tvg-logo="" group-title="USA | PREMIUM",USA | EPIX Drive-In
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147318
+#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX Hits" tvg-logo="" group-title="USA | PREMIUM",USA | EPIX Hits
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147319
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147320
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147321
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime 2 (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime 2 (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147322
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime 2 (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime 2 (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147323
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Extreme (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Extreme (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147324
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Extreme (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Extreme (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147325
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Family Zone (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Family Zone (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147326
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Family Zone (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Family Zone (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147327
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Next (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Next (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147328
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Next (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Next (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147329
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Showcase (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Showcase (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147330
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Showcase (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Showcase (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147331
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Women (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Women (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147332
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Women (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Showtime Women (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147333
+#EXTINF:-1 tvg-id="" tvg-name="USA | SHOxBET (East)" tvg-logo="" group-title="USA | PREMIUM",USA | SHOxBET (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147334
+#EXTINF:-1 tvg-id="" tvg-name="USA | SHOxBET (West)" tvg-logo="" group-title="USA | PREMIUM",USA | SHOxBET (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147335
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147336
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147337
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Cinema (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Cinema (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147338
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Cinema (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Cinema (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147339
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Comedy (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Comedy (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147340
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Comedy (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Comedy (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147341
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Edge (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Edge (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147342
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Edge (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Edge (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147343
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147344
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147345
+#EXTINF:-1 tvg-id="" tvg-name="USA |Starz Encore Action (East)" tvg-logo="" group-title="USA | PREMIUM",USA |Starz Encore Action (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147346
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Action (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Action (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147347
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Black (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Black (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147348
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Black (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Black (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147349
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Classic (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Classic (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147350
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Classic (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Classic (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147351
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Family (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Family (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147352
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Family (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Family (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147353
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Suspense (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Suspense (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147354
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Suspense (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Suspense (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147355
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Westerns (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Westerns (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147356
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Westerns (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Encore Westerns (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147357
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz in Black (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz in Black (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147358
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz in Black (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz in Black (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147359
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Kids & Family (East)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Kids & Family (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147360
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Kids & Family (West)" tvg-logo="" group-title="USA | PREMIUM",USA | Starz Kids & Family (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147361
+#EXTINF:-1 tvg-id="" tvg-name="USA | ThrillerMAX (East)" tvg-logo="" group-title="USA | PREMIUM",USA | ThrillerMAX (East)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147365
+#EXTINF:-1 tvg-id="" tvg-name="USA | ThrillerMAX (West)" tvg-logo="" group-title="USA | PREMIUM",USA | ThrillerMAX (West)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/147366
+#EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="USA | ABC Atlanta" tvg-logo="http://g3hosting.live/logos/abc_logo.png" group-title="USA | ABC",USA | ABC Atlanta
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145786
+#EXTINF:-1 tvg-id="ABCWMAR.us" tvg-name="USA | ABC Baltimore" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Baltimore
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145787
+#EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="USA | ABC Boston" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Boston
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145788
+#EXTINF:-1 tvg-id="ABCWSOC.us" tvg-name="USA | ABC Charlotte" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Charlotte
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145789
+#EXTINF:-1 tvg-id="ABC7WLS.us" tvg-name="USA | ABC Chicago" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Chicago
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145790
+#EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="USA | ABC Cleveland" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Cleveland
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145791
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Connecticut" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Connecticut
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145792
+#EXTINF:-1 tvg-id="ABC8WFAA.us" tvg-name="USA | ABC Dallas" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Dallas
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145793
+#EXTINF:-1 tvg-id="ABC7KMGHTV.us" tvg-name="USA | ABC Denver" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Denver
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145794
+#EXTINF:-1 tvg-id="ABC7WXYZ.us" tvg-name="USA | ABC Detroit" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Detroit
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145795
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Durham" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Durham
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145796
+#EXTINF:-1 tvg-id="ABCKFSN.us" tvg-name="USA | ABC Fresno" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Fresno
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145797
+#EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="USA | ABC Hartford" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Hartford
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145798
+#EXTINF:-1 tvg-id="ABC13KTRK.us" tvg-name="USA | ABC Houston" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Houston
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145799
+#EXTINF:-1 tvg-id="ABCWRTV.us" tvg-name="USA | ABC Indianapolis" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Indianapolis
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145800
+#EXTINF:-1 tvg-id="ABC9KMBC.us" tvg-name="USA | ABC Kansas City" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Kansas City
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145801
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="USA | ABC Los Angeles" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Los Angeles
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145802
+#EXTINF:-1 tvg-id="ABC10WPLG.us" tvg-name="USA | ABC Miami" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Miami
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145803
+#EXTINF:-1 tvg-id="ABCWISN.us" tvg-name="USA | ABC Milwaukee" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Milwaukee
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145804
+#EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="USA | ABC Nashville" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Nashville
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145805
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA | ABC New York" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC New York
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145806
+#EXTINF:-1 tvg-id="ABCWFTV.us" tvg-name="USA | ABC Orlando" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Orlando
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145807
+#EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="USA | ABC Philadelphia" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Philadelphia
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145808
+#EXTINF:-1 tvg-id="KNXV.us" tvg-name="USA | ABC Phoenix" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Phoenix
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145809
+#EXTINF:-1 tvg-id="ABCWTAE.us" tvg-name="USA | ABC Pittsburgh" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Pittsburgh
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145810
+#EXTINF:-1 tvg-id="ABCKATU.us" tvg-name="USA | ABC Portland" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Portland
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145811
+#EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="USA | ABC Sacramento" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Sacramento
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145812
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Saint Paul" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Saint Paul
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145813
+#EXTINF:-1 tvg-id="ABCKTVX.us" tvg-name="USA | ABC Salt lake city" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Salt lake city
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145814
+#EXTINF:-1 tvg-id="ABCKSAT.us" tvg-name="USA | ABC San Antonio" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC San Antonio
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145815
+#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="USA | ABC San Diego" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC San Diego
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145816
+#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="USA | ABC San Francisco" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC San Francisco
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145817
+#EXTINF:-1 tvg-id="ABCKOMO.us" tvg-name="USA | ABC Seattle" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Seattle
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145818
+#EXTINF:-1 tvg-id="ABCKDNL.us" tvg-name="USA | ABC St Louis" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC St Louis
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145819
+#EXTINF:-1 tvg-id="ABC28WFTS.us" tvg-name="USA | ABC Tampa Bay" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Tampa Bay
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145820
+#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="USA | ABC Washington" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC Washington
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145821
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC EL PASO" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC EL PASO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145822
+#EXTINF:-1 tvg-id="WKWB.us" tvg-name="ABC: Buffalo WKBW" tvg-logo="http://un-pluggedtv.net:8080/images/7f88ffbc5e91bc2622b30c2fd45ceb91.png" group-title="USA | ABC",ABC: Buffalo WKBW
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145823
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC SPRINGFIELD" tvg-logo="http://un-pluggedtv.net:8080/images/a15ae9c73ac0e089be64efda0d34a929.png" group-title="USA | ABC",USA | ABC SPRINGFIELD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145824
+#EXTINF:-1 tvg-id="KBAK.us" tvg-name="USA |  CBS Bakersfield" tvg-logo="http://g3hosting.live/logos/CBS_logo.png" group-title="USA | CBS",USA |  CBS Bakersfield
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145825
+#EXTINF:-1 tvg-id="CBSWJZ.us" tvg-name="USA | CBS Baltimore" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2014/03/wjzgeneric.jpg?w=640&h=0&crop=1" group-title="USA | CBS",USA | CBS Baltimore
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145826
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="USA | CBS Boston" tvg-logo="http://un-pluggedtv.net:8080/images/b876c2d245c6fd06581247cc21f0ebcc.png" group-title="USA | CBS",USA | CBS Boston
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145827
+#EXTINF:-1 tvg-id="CBSWBTV.us" tvg-name="USA | CBS Charlotte" tvg-logo="http://un-pluggedtv.net:8080/images/f5a8710cf1fb503ab9b614e2cbb100ad.jpg" group-title="USA | CBS",USA | CBS Charlotte
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145828
+#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="USA | CBS Chicago" tvg-logo="http://un-pluggedtv.net:8080/images/5832d055fd28c612c97586b66ed2165a.jpg" group-title="USA | CBS",USA | CBS Chicago
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145829
+#EXTINF:-1 tvg-id="CBSWOIO.us" tvg-name="USA | CBS Cleveland" tvg-logo="http://un-pluggedtv.net:8080/images/4432029755f443a95150716e8910c8a2.png" group-title="USA | CBS",USA | CBS Cleveland
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145830
+#EXTINF:-1 tvg-id="CBSWBNS.us" tvg-name="USA | CBS Columbus" tvg-logo="https://schottensteinrealestate.com/wp-content/uploads/2017/08/10tv_logo.jpg" group-title="USA | CBS",USA | CBS Columbus
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145831
+#EXTINF:-1 tvg-id="ABC8WFAA.us" tvg-name="USA | CBS Dallas" tvg-logo="https://shannonrousseau.files.wordpress.com/2016/03/cbs-logo.jpg?w=620" group-title="USA | CBS",USA | CBS Dallas
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145832
+#EXTINF:-1 tvg-id="CBS4KCNC.us" tvg-name="USA | CBS Denver" tvg-logo="https://www.womply.com/wp-content/uploads/2019/03/cbs-4.jpg" group-title="USA | CBS",USA | CBS Denver
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145833
+#EXTINF:-1 tvg-id="CBS62WWJ.us" tvg-name="USA | CBS Detroit" tvg-logo="https://detroit.cbslocal.com/wp-content/uploads/sites/15909782/2018/08/detroit-station-featured.jpg?w=626" group-title="USA | CBS",USA | CBS Detroit
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145834
+#EXTINF:-1 tvg-id="WFMY.us" tvg-name="USA | CBS Greensboro" tvg-logo="https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/4/f5/4f564836-889c-59e0-9ddd-91d73d894d37/5a0f4dd4a89a5.image.jpg?resize=1200%2C675" group-title="USA | CBS",USA | CBS Greensboro
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145835
+#EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="USA | CBS HARTFORD" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",USA | CBS HARTFORD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145836
+#EXTINF:-1 tvg-id="CBSKHOU.us" tvg-name="USA | CBS Houston" tvg-logo="http://un-pluggedtv.net:8080/images/46be319a99637a6bfc7502585430ad43.jpg" group-title="USA | CBS",USA | CBS Houston
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145837
+#EXTINF:-1 tvg-id="WJAX.us" tvg-name="USA | CBS Jacksonville" tvg-logo="http://un-pluggedtv.net:8080/images/65745b571ed8e0624240af56ea541f5a.png" group-title="USA | CBS",USA | CBS Jacksonville
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145838
+#EXTINF:-1 tvg-id="CBS5KCTV.us" tvg-name="USA | CBS Kansas City" tvg-logo="http://un-pluggedtv.net:8080/images/9595f6604affd4efe709a2727de0d90a.png" group-title="USA | CBS",USA | CBS Kansas City
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145839
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="USA | CBS Los Angeles" tvg-logo="https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2018/06/cbs2onthego.jpg?w=1500" group-title="USA | CBS",USA | CBS Los Angeles
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145840
+#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="USA | CBS Miami" tvg-logo="https://omny.fm/shows/cbs4-news-miami-1/image.jpg?t=1512454009&size=Medium" group-title="USA | CBS",USA | CBS Miami
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145841
+#EXTINF:-1 tvg-id="CBSWDJT.us" tvg-name="USA | CBS Milwaukee" tvg-logo="https://lh3.googleusercontent.com/xAXWRAWYuQEjKCumKL9Ig7Jqs02smVQcjmekCma3RIJlj77aJ1kEQMHLyuCw4hsQPbs" group-title="USA | CBS",USA | CBS Milwaukee
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145842
+#EXTINF:-1 tvg-id="CBSWCCO.us" tvg-name="USA | CBS Minneapolis" tvg-logo="http://un-pluggedtv.net:8080/images/b26c23bf3be84d699476f16fbb49fe80.png" group-title="USA | CBS",USA | CBS Minneapolis
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145843
+#EXTINF:-1 tvg-id="CBSWTVF.us" tvg-name="USA | CBS Nashville" tvg-logo="http://un-pluggedtv.net:8080/images/a18ccf5ed8d321002e977b08f93e1eb6.png" group-title="USA | CBS",USA | CBS Nashville
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145844
+#EXTINF:-1 tvg-id="CBS4WWL.us" tvg-name="USA | CBS New Orleans" tvg-logo="https://i2.wp.com/rougaroufest.org/wp-content/uploads/2019/09/WWL-TV.jpg?fit=400%2C300&ssl=1" group-title="USA | CBS",USA | CBS New Orleans
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145845
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA | CBS New York" tvg-logo="http://un-pluggedtv.net:8080/images/5905ccb988903f28e22badc16beb013d.jpg" group-title="USA | CBS",USA | CBS New York
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145846
+#EXTINF:-1 tvg-id="CBSWKMG.us" tvg-name="USA | CBS Orlando" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_N5ek79YaJwOr61PnzmvnnucamWGyKTGTj3g=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA | CBS",USA | CBS Orlando
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145847
+#EXTINF:-1 tvg-id="CBSKYW.us" tvg-name="USA | CBS Philadelphia" tvg-logo="https://yt3.ggpht.com/a/AGF-l797Rmd88R0-VESwosWLx-j_AQrQIDSOiyspdA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA | CBS",USA | CBS Philadelphia
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145848
+#EXTINF:-1 tvg-id="CBSKPHO.us" tvg-name="USA | CBS Phoenix" tvg-logo="http://un-pluggedtv.net:8080/images/8fe957e3430f1a92b45b06be69bebe95.png" group-title="USA | CBS",USA | CBS Phoenix
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145849
+#EXTINF:-1 tvg-id="CBS2KDKA.us" tvg-name="USA | CBS Pittsburgh" tvg-logo="https://assets.divergentaero.com/wp-stateless-media/2019/06/CBS-Pittsburgh.jpg" group-title="USA | CBS",USA | CBS Pittsburgh
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145850
+#EXTINF:-1 tvg-id="CBSKOVR.us" tvg-name="USA | CBS Sacramento" tvg-logo="http://un-pluggedtv.net:8080/images/c5c8aff683bbd112995ad87bad51ef1d.png" group-title="USA | CBS",USA | CBS Sacramento
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145851
+#EXTINF:-1 tvg-id="CBSKENS.us" tvg-name="USA | CBS San Antonio" tvg-logo="https://yt3.ggpht.com/a/AATXAJzD15LKhoX-ynOSgXL4Hc-XkqoIxKjim-ZAtw=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA | CBS",USA | CBS San Antonio
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145852
+#EXTINF:-1 tvg-id="CBSKFMB.us" tvg-name="USA | CBS San Diego" tvg-logo="http://un-pluggedtv.net:8080/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="USA | CBS",USA | CBS San Diego
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145853
+#EXTINF:-1 tvg-id="KPIX.us" tvg-name="USA | CBS San Francisco" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",USA | CBS San Francisco
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145854
+#EXTINF:-1 tvg-id="CBSKIRO.us" tvg-name="USA | CBS Seattle" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",USA | CBS Seattle
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145855
+#EXTINF:-1 tvg-id="CBSKMOV.us" tvg-name="USA | CBS St Louis" tvg-logo="http://un-pluggedtv.net:8080/images/665405dd189f2827eb964692e3a339dd.png" group-title="USA | CBS",USA | CBS St Louis
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145856
+#EXTINF:-1 tvg-id="WCTV.us" tvg-name="USA | CBS Tallahassee" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",USA | CBS Tallahassee
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145857
+#EXTINF:-1 tvg-id="CBSWTSP.us" tvg-name="USA | CBS Tampa" tvg-logo="http://un-pluggedtv.net:8080/images/6f87d91d102cc323382190cab2fa843d.png" group-title="USA | CBS",USA | CBS Tampa
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145858
+#EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="USA | CBS Washington" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",USA | CBS Washington
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145859
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Portland" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",USA | CBS Portland
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145860
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="CBS | Boston (TV38)" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",CBS | Boston (TV38)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145861
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS EL PASO" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",USA | CBS EL PASO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145862
+#EXTINF:-1 tvg-id="" tvg-name="CBC | CBC  Cincinnati  WKRC 12" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",CBC | CBC  Cincinnati  WKRC 12
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145863
+#EXTINF:-1 tvg-id="" tvg-name="USA  | CBS ATLANTA WGCL" tvg-logo="http://un-pluggedtv.net:8080/images/59f6d7dd656d6da5dc68d7cd81869728.png" group-title="USA | CBS",USA  | CBS ATLANTA WGCL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145864
+#EXTINF:-1 tvg-id="" tvg-name="CBS WMAZ Macon GA" tvg-logo="" group-title="USA | CBS",CBS WMAZ Macon GA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145865
+#EXTINF:-1 tvg-id="US: FOX BUSINESS" tvg-name="FOX BUSINESS" tvg-logo="http://epg.justco.cc/guide/logos/FOX BUSINESS.png" group-title="USA | FOX",FOX BUSINESS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34803
+#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-name="FOX DALLAS TX KDFW" tvg-logo="http://epg.justco.cc/guide/logos/FOX.png" group-title="USA | FOX",FOX DALLAS TX KDFW
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34804
+#EXTINF:-1 tvg-id="FOX31KDVR.us" tvg-name="FOX DENVER CO KDVR" tvg-logo="http://epg.justco.cc/guide/logos/FOX.png" group-title="USA | FOX",FOX DENVER CO KDVR
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34805
+#EXTINF:-1 tvg-id="US: FOX LOS ANGELES CA KTTV" tvg-name="FOX LOS ANGELES CA KTTV" tvg-logo="http://epg.justco.cc/guide/logos/FOX.png" group-title="USA | FOX",FOX LOS ANGELES CA KTTV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34806
+#EXTINF:-1 tvg-id="FoodNetwork.my" tvg-name="FOX NEW YORK NY WNYW" tvg-logo="http://epg.justco.cc/guide/logos/FOX.png" group-title="USA | FOX",FOX NEW YORK NY WNYW
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34807
+#EXTINF:-1 tvg-id="FOXWAGA.us" tvg-name="FOX ATLANTA GA WAGA" tvg-logo="" group-title="USA | FOX",FOX ATLANTA GA WAGA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34809
+#EXTINF:-1 tvg-id="KTBC.us" tvg-name="FOX AUSTIN TX KTBC" tvg-logo="" group-title="USA | FOX",FOX AUSTIN TX KTBC
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34810
+#EXTINF:-1 tvg-id="FOXWBFF.us" tvg-name="FOX BALTIMORE MD WBFF" tvg-logo="" group-title="USA | FOX",FOX BALTIMORE MD WBFF
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34811
+#EXTINF:-1 tvg-id="FOX25WFXT.us" tvg-name="FOX BOSTON MA WFXT" tvg-logo="" group-title="USA | FOX",FOX BOSTON MA WFXT
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34812
+#EXTINF:-1 tvg-id="WUTV.us" tvg-name="FOX BUFFALO NY WUTV" tvg-logo="" group-title="USA | FOX",FOX BUFFALO NY WUTV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34813
+#EXTINF:-1 tvg-id="FOX32WFLD.us" tvg-name="FOX CHICAGO IL WFLD" tvg-logo="" group-title="USA | FOX",FOX CHICAGO IL WFLD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34814
+#EXTINF:-1 tvg-id="KQFX.us" tvg-name="FOX COLUMBUS OH WTTE" tvg-logo="" group-title="USA | FOX",FOX COLUMBUS OH WTTE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34815
+#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-name="FOX DALLAS TX KDFW" tvg-logo="" group-title="USA | FOX",FOX DALLAS TX KDFW
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34816
+#EXTINF:-1 tvg-id="FOX31KDVR.us" tvg-name="FOX DENVER CO KDVR" tvg-logo="" group-title="USA | FOX",FOX DENVER CO KDVR
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34817
+#EXTINF:-1 tvg-id="FOXWJBK.us" tvg-name="FOX DETROIT MI WJBK" tvg-logo="" group-title="USA | FOX",FOX DETROIT MI WJBK
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34818
+#EXTINF:-1 tvg-id="WTIC.us" tvg-name="FOX HARTFORD CT WTIC" tvg-logo="" group-title="USA | FOX",FOX HARTFORD CT WTIC
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34820
+#EXTINF:-1 tvg-id="FOXKRIV.us" tvg-name="FOX HOUSTON TX KRIV" tvg-logo="" group-title="USA | FOX",FOX HOUSTON TX KRIV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34821
+#EXTINF:-1 tvg-id="FOXWXIN.us" tvg-name="FOX INDIANAPOLIS IN WXIN" tvg-logo="" group-title="USA | FOX",FOX INDIANAPOLIS IN WXIN
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34822
+#EXTINF:-1 tvg-id="FOX30WFOX.us" tvg-name="FOX JACKSONVILLE FL WFOX" tvg-logo="" group-title="USA | FOX",FOX JACKSONVILLE FL WFOX
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34823
+#EXTINF:-1 tvg-id="FOX4WDAF.us" tvg-name="FOX KANSAS CITY MO WDAF" tvg-logo="" group-title="USA | FOX",FOX KANSAS CITY MO WDAF
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34824
+#EXTINF:-1 tvg-id="" tvg-name="FOX LOS ANGELES CA KTTV" tvg-logo="" group-title="USA | FOX",FOX LOS ANGELES CA KTTV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34825
+#EXTINF:-1 tvg-id="" tvg-name="FOX MIAMI FL WSVN" tvg-logo="" group-title="USA | FOX",FOX MIAMI FL WSVN
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34826
+#EXTINF:-1 tvg-id="FOXWITI.us" tvg-name="FOX MILWAUKEE WI WITI" tvg-logo="" group-title="USA | FOX",FOX MILWAUKEE WI WITI
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34827
+#EXTINF:-1 tvg-id="FOXWZTV.us" tvg-name="FOX NASHVILLE TN WZTV" tvg-logo="" group-title="USA | FOX",FOX NASHVILLE TN WZTV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34828
+#EXTINF:-1 tvg-id="FOXWVUE.us" tvg-name="FOX NEW ORLEANS LA WVUE" tvg-logo="" group-title="USA | FOX",FOX NEW ORLEANS LA WVUE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34829
+#EXTINF:-1 tvg-id="FOXWOFL.us" tvg-name="FOX ORLANDO FL WOFL" tvg-logo="" group-title="USA | FOX",FOX ORLANDO FL WOFL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34831
+#EXTINF:-1 tvg-id="FOXWTXF.us" tvg-name="FOX PHILADELPHIA PA WTXF" tvg-logo="" group-title="USA | FOX",FOX PHILADELPHIA PA WTXF
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34832
+#EXTINF:-1 tvg-id="FOX10KSAZ.us" tvg-name="FOX PHOENIX AZ KSAZ" tvg-logo="" group-title="USA | FOX",FOX PHOENIX AZ KSAZ
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34833
+#EXTINF:-1 tvg-id="WPGH.us" tvg-name="FOX PITTSBURGH PA WPGH" tvg-logo="" group-title="USA | FOX",FOX PITTSBURGH PA WPGH
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34834
+#EXTINF:-1 tvg-id="FOXKTXL.us" tvg-name="FOX SACRAMENTO CA KTXL" tvg-logo="" group-title="USA | FOX",FOX SACRAMENTO CA KTXL
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34835
+#EXTINF:-1 tvg-id="KSTU.us" tvg-name="FOX SALT LAKE CITY UT KSTU" tvg-logo="" group-title="USA | FOX",FOX SALT LAKE CITY UT KSTU
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34836
+#EXTINF:-1 tvg-id="FoxKABB.us" tvg-name="FOX SAN ANTONIO TX KABB" tvg-logo="" group-title="USA | FOX",FOX SAN ANTONIO TX KABB
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34837
+#EXTINF:-1 tvg-id="FOXKSWB.us" tvg-name="FOX SAN DIEGO CA KSWB" tvg-logo="" group-title="USA | FOX",FOX SAN DIEGO CA KSWB
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34838
+#EXTINF:-1 tvg-id="FOXKTVU.us" tvg-name="FOX SAN FRANCISCO CA KTVU" tvg-logo="" group-title="USA | FOX",FOX SAN FRANCISCO CA KTVU
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34839
+#EXTINF:-1 tvg-id="" tvg-name="FOX SEATTLE WA KCPQ" tvg-logo="" group-title="USA | FOX",FOX SEATTLE WA KCPQ
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34840
+#EXTINF:-1 tvg-id="FOX41WDRB.us" tvg-name="FOX ST LOUIS MO KTVI" tvg-logo="" group-title="USA | FOX",FOX ST LOUIS MO KTVI
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/34841
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="" group-title="USA | FOX",FOX NEWS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/33924
+#EXTINF:-1 tvg-id="WTNZ.us" tvg-name="FOX 43 Knoxville" tvg-logo="" group-title="USA | FOX",FOX 43 Knoxville
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/37135
+#EXTINF:-1 tvg-id="FoxBusiness.it" tvg-name="US: Fox Bussines Network" tvg-logo="" group-title="USA | FOX",US: Fox Bussines Network
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39583
+#EXTINF:-1 tvg-id="FOXWJW.us" tvg-name="US: FOX CLEVELAND HD" tvg-logo="" group-title="USA | FOX",US: FOX CLEVELAND HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39585
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="US: FOX Deportes HD" tvg-logo="" group-title="USA | FOX",US: FOX Deportes HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39586
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX HD" tvg-logo="" group-title="USA | FOX",US: FOX HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39588
+#EXTINF:-1 tvg-id="FOXKMSP.us" tvg-name="US: FOX MINNEAPOLIS HD" tvg-logo="" group-title="USA | FOX",US: FOX MINNEAPOLIS HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39589
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="US: Fox Network" tvg-logo="" group-title="USA | FOX",US: Fox Network
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39590
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Ocala" tvg-logo="" group-title="USA | FOX",US: FOX Ocala
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39592
+#EXTINF:-1 tvg-id="FOXWTVT.us" tvg-name="US: FOX Tampa" tvg-logo="" group-title="USA | FOX",US: FOX Tampa
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39594
+#EXTINF:-1 tvg-id="FOXWTTG.us" tvg-name="US: FOX Washington" tvg-logo="" group-title="USA | FOX",US: FOX Washington
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/39595
+#EXTINF:-1 tvg-id="Fox.co" tvg-name="US: FOX Waco" tvg-logo="" group-title="USA | FOX",US: FOX Waco
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/47794
+#EXTINF:-1 tvg-id="" tvg-name="FOX 50 (RALEIGH)" tvg-logo="" group-title="USA | FOX",FOX 50 (RALEIGH)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/119863
+#EXTINF:-1 tvg-id="FOXNews.id" tvg-name="FOX Bakersfield" tvg-logo="" group-title="USA | FOX",FOX Bakersfield
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134111
+#EXTINF:-1 tvg-id="" tvg-name="FOX (KBSI-Paducah, MO)" tvg-logo="" group-title="USA | FOX",FOX (KBSI-Paducah, MO)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134112
+#EXTINF:-1 tvg-id="" tvg-name="FOX (KDSM-Des Moines, IA)" tvg-logo="" group-title="USA | FOX",FOX (KDSM-Des Moines, IA)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134113
+#EXTINF:-1 tvg-id="" tvg-name="FOX (KFOX-El Paso, TX" tvg-logo="" group-title="USA | FOX",FOX (KFOX-El Paso, TX
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134114
+#EXTINF:-1 tvg-id="" tvg-name="FOX (KFXL-Lincoln, NE)" tvg-logo="" group-title="USA | FOX",FOX (KFXL-Lincoln, NE)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134116
+#EXTINF:-1 tvg-id="KMPH.us" tvg-name="FOX (KMPH-Fresno, CA)" tvg-logo="" group-title="USA | FOX",FOX (KMPH-Fresno, CA)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134117
+#EXTINF:-1 tvg-id="" tvg-name="FOX (KPTM-Omaha, NE)" tvg-logo="" group-title="USA | FOX",FOX (KPTM-Omaha, NE)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134118
+#EXTINF:-1 tvg-id="" tvg-name="FOX (KRXI-Reno, NV)" tvg-logo="" group-title="USA | FOX",FOX (KRXI-Reno, NV)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134119
+#EXTINF:-1 tvg-id="" tvg-name="FOX (KSCC-Corpus Christi, TX)" tvg-logo="" group-title="USA | FOX",FOX (KSCC-Corpus Christi, TX)
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/134120
+#EXTINF:-1 tvg-id="Fox11WLUK.us" tvg-name="US: | FOX 11 WLUK Green Bay" tvg-logo="" group-title="USA | FOX",US: | FOX 11 WLUK Green Bay
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135521
+#EXTINF:-1 tvg-id="" tvg-name="AR | Fayetteville | FOX KFTA" tvg-logo="" group-title="USA | FOX",AR | Fayetteville | FOX KFTA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135522
+#EXTINF:-1 tvg-id="" tvg-name="FL | Tallahassee | FOX WTWC" tvg-logo="" group-title="USA | FOX",FL | Tallahassee | FOX WTWC
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135523
+#EXTINF:-1 tvg-id="" tvg-name="GA | Macon | FOX WGXA" tvg-logo="" group-title="USA | FOX",GA | Macon | FOX WGXA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135524
+#EXTINF:-1 tvg-id="" tvg-name="GA | Savannah | FOX WTGS" tvg-logo="" group-title="USA | FOX",GA | Savannah | FOX WTGS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135525
+#EXTINF:-1 tvg-id="" tvg-name="IA | Ottumwa | FOX Net" tvg-logo="" group-title="USA | FOX",IA | Ottumwa | FOX Net
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135526
+#EXTINF:-1 tvg-id="" tvg-name="IN | Evansville | FOX WEVV" tvg-logo="" group-title="USA | FOX",IN | Evansville | FOX WEVV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135527
+#EXTINF:-1 tvg-id="CBSWSBT.us" tvg-name="IN | South Bend | FOX WSBT" tvg-logo="" group-title="USA | FOX",IN | South Bend | FOX WSBT
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135528
+#EXTINF:-1 tvg-id="" tvg-name="IN | T2-Evansville | FOX WEVV" tvg-logo="" group-title="USA | FOX",IN | T2-Evansville | FOX WEVV
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135529
+#EXTINF:-1 tvg-id="" tvg-name="KS | Wichita | FOX KSAS" tvg-logo="" group-title="USA | FOX",KS | Wichita | FOX KSAS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135530
+#EXTINF:-1 tvg-id="" tvg-name="KY | Bowling Green | FOX Net" tvg-logo="" group-title="USA | FOX",KY | Bowling Green | FOX Net
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135531
+#EXTINF:-1 tvg-id="CBSWKYT.us" tvg-name="KY | Lexington | FOX WDKY" tvg-logo="" group-title="USA | FOX",KY | Lexington | FOX WDKY
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135532
+#EXTINF:-1 tvg-id="" tvg-name="ME | Portland | FOX WPFO" tvg-logo="" group-title="USA | FOX",ME | Portland | FOX WPFO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135533
+#EXTINF:-1 tvg-id="" tvg-name="MI | Aplena | FOX Net" tvg-logo="" group-title="USA | FOX",MI | Aplena | FOX Net
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135534
+#EXTINF:-1 tvg-id="" tvg-name="MI | Flint | FOX WSMH" tvg-logo="" group-title="USA | FOX",MI | Flint | FOX WSMH
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135535
+#EXTINF:-1 tvg-id="" tvg-name="NC | Washington | FOX WYDO" tvg-logo="" group-title="USA | FOX",NC | Washington | FOX WYDO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135536
+#EXTINF:-1 tvg-id="" tvg-name="NY | Rochester | FOX WUHF" tvg-logo="" group-title="USA | FOX",NY | Rochester | FOX WUHF
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135537
+#EXTINF:-1 tvg-id="" tvg-name="OH | Columbus | FOX WTTE" tvg-logo="" group-title="USA | FOX",OH | Columbus | FOX WTTE
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135538
+#EXTINF:-1 tvg-id="" tvg-name="OH | Dayton | FOX WRGT" tvg-logo="" group-title="USA | FOX",OH | Dayton | FOX WRGT
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135539
+#EXTINF:-1 tvg-id="" tvg-name="PA | Wilkes-Barre | FOX WOLF" tvg-logo="" group-title="USA | FOX",PA | Wilkes-Barre | FOX WOLF
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135540
+#EXTINF:-1 tvg-id="KOMUCW.us" tvg-name="SC | Columbia | FOX WACH" tvg-logo="" group-title="USA | FOX",SC | Columbia | FOX WACH
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135541
+#EXTINF:-1 tvg-id="WFLI.us" tvg-name="TN | Chattanooga | FOX WTVC" tvg-logo="" group-title="USA | FOX",TN | Chattanooga | FOX WTVC
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135542
+#EXTINF:-1 tvg-id="" tvg-name="VA | Richmond | FOX WRLH" tvg-logo="" group-title="USA | FOX",VA | Richmond | FOX WRLH
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135543
+#EXTINF:-1 tvg-id="" tvg-name="WA | Tri-Cities | FOX WEMT" tvg-logo="" group-title="USA | FOX",WA | Tri-Cities | FOX WEMT
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135544
+#EXTINF:-1 tvg-id="" tvg-name="WI | Green Bay | FOX WLUK" tvg-logo="" group-title="USA | FOX",WI | Green Bay | FOX WLUK
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135545
+#EXTINF:-1 tvg-id="" tvg-name="WI | Madison | FOX WMSN" tvg-logo="" group-title="USA | FOX",WI | Madison | FOX WMSN
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135546
+#EXTINF:-1 tvg-id="" tvg-name="WI | Wausau | FOX Net" tvg-logo="" group-title="USA | FOX",WI | Wausau | FOX Net
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135547
+#EXTINF:-1 tvg-id="" tvg-name="WV | Parkersburg | FOX Net" tvg-logo="" group-title="USA | FOX",WV | Parkersburg | FOX Net
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/135549
+#EXTINF:-1 tvg-id="WCWN.us" tvg-name="USA | NBC Albany GA" tvg-logo="http://g3hosting.live/logos/NBC_logo.png" group-title="USA | NBC",USA | NBC Albany GA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145866
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Atlanta" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Atlanta
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145867
+#EXTINF:-1 tvg-id="KGET.us" tvg-name="USA | NBC Bakersfield" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Bakersfield
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145868
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Baltimore" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Baltimore
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145869
+#EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="USA | NBC Boston" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Boston
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145870
+#EXTINF:-1 tvg-id="WKWB.us" tvg-name="USA | NBC Buffalo" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Buffalo
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145871
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Charlotte" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Charlotte
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145872
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Chicago" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Chicago
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145873
+#EXTINF:-1 tvg-id="NBCWLWT.us" tvg-name="USA | NBC Cincinnati" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Cincinnati
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145874
+#EXTINF:-1 tvg-id="NBCWKYC.us" tvg-name="USA | NBC Cleveland" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Cleveland
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145875
+#EXTINF:-1 tvg-id="ABC8WFAA.us" tvg-name="USA | NBC Dallas" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Dallas
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145876
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Denver" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Denver
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145877
+#EXTINF:-1 tvg-id="NBCWDIV.us" tvg-name="USA | NBC Detroit" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Detroit
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145878
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Green Bay" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Green Bay
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145879
+#EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="USA | NBC Hartford" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Hartford
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145880
+#EXTINF:-1 tvg-id="NBCKPRC.us" tvg-name="USA | NBC Houston" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Houston
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145881
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Indianapolis" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Indianapolis
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145882
+#EXTINF:-1 tvg-id="WTLV.us" tvg-name="USA | NBC Jacksonville" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Jacksonville
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145883
+#EXTINF:-1 tvg-id="ABC9KMBC.us" tvg-name="USA | NBC Kansas City" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Kansas City
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145884
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="USA | NBC Los Angeles" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Los Angeles
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145885
+#EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-name="USA | NBC Miami" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Miami
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145886
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Milwaukee" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Milwaukee
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145887
+#EXTINF:-1 tvg-id="ABCKSTP.us" tvg-name="USA | NBC Minneapolis" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Minneapolis
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145888
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Nashville" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Nashville
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145889
+#EXTINF:-1 tvg-id="NBCWDSU.us" tvg-name="USA | NBC New Orleans" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC New Orleans
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145890
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA | NBC New York" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC New York
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145891
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Orlando" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Orlando
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145892
+#EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="USA | NBC Philadelphia" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Philadelphia
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145893
+#EXTINF:-1 tvg-id="KNXV.us" tvg-name="USA | NBC Phoenix" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Phoenix
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145894
+#EXTINF:-1 tvg-id="nbcwpxi.us" tvg-name="USA | NBC Pittsburgh" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Pittsburgh
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145895
+#EXTINF:-1 tvg-id="WLFL.us" tvg-name="USA | NBC Raleigh" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Raleigh
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145896
+#EXTINF:-1 tvg-id="NBCKCRA.us" tvg-name="USA | NBC Sacramento" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Sacramento
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145897
+#EXTINF:-1 tvg-id="ABCKTVX.us" tvg-name="USA | NBC Salt Lake City" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Salt Lake City
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145898
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC San Diego" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC San Diego
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145899
+#EXTINF:-1 tvg-id="KNTV.us" tvg-name="USA | NBC San Francisco" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC San Francisco
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145900
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Seattle" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Seattle
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145901
+#EXTINF:-1 tvg-id="ABCKDNL.us" tvg-name="USA | NBC St Louis" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC St Louis
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145902
+#EXTINF:-1 tvg-id="NBCWRC.us" tvg-name="USA | NBC Washington" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Washington
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145903
+#EXTINF:-1 tvg-id="KSNF.us" tvg-name="USA | NBC Joplin" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Joplin
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145904
+#EXTINF:-1 tvg-id="nbcwfla.us" tvg-name="USA | NBC Tampa Bay" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Tampa Bay
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145905
+#EXTINF:-1 tvg-id="KGW.us" tvg-name="USA | NBC Portland OR" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC Portland OR
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145906
+#EXTINF:-1 tvg-id="KAMR.us" tvg-name="USA | NBC  AMARILLO" tvg-logo="http://un-pluggedtv.net:8080/images/ac91d42000d8b30b704e1afe422da9d8.png" group-title="USA | NBC",USA | NBC  AMARILLO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145907
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC EL PASO" tvg-logo="" group-title="USA | NBC",USA | NBC EL PASO
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145908
+#EXTINF:-1 tvg-id="nb10wis.us" tvg-name="USA | NBC 10 COLUMBIA | WIS" tvg-logo="http://un-pluggedtv.net:8080/images/54e3a6e45f7767a5141b9fe461fb1c61.png" group-title="USA | NBC",USA | NBC 10 COLUMBIA | WIS
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145909
+#EXTINF:-1 tvg-id="" tvg-name="NBC | Cincinnati WLWT 5" tvg-logo="" group-title="USA | NBC",NBC | Cincinnati WLWT 5
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145910
+#EXTINF:-1 tvg-id="" tvg-name="USA NBC15 WPMI ALABAMA" tvg-logo="" group-title="USA | NBC",USA NBC15 WPMI ALABAMA
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/145911
+#EXTINF:-1 tvg-id="PAC12BayArea.us" tvg-name="USA: PAC 12 BAY AREA HD" tvg-logo="" group-title="PAC 12",USA: PAC 12 BAY AREA HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/13044
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="USA: PAC 12 LOS ANGELES HD" tvg-logo="" group-title="PAC 12",USA: PAC 12 LOS ANGELES HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/13045
+#EXTINF:-1 tvg-id="PAC12Mountain.us" tvg-name="USA: PAC 12 MOUNTAIN HD" tvg-logo="" group-title="PAC 12",USA: PAC 12 MOUNTAIN HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/13046
+#EXTINF:-1 tvg-id="PAC12Oregon.us" tvg-name="USA: PAC 12 OREGON HD" tvg-logo="" group-title="PAC 12",USA: PAC 12 OREGON HD
+http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/13047
